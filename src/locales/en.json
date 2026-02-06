@@ -1,0 +1,53 @@
+{
+  "landing": {
+    "title": "Scent of Self",
+    "subtitle": "Find a fragrance that resonates with your inner world",
+    "cta": "Begin the Journey",
+    "philosophy1": "Don't choose a scent to fit an image.",
+    "philosophy2": "Choose a scent that fits your soul."
+  },
+  "mbti": {
+    "title": "Who are you?",
+    "subtitle": "Select your personality type",
+    "dontKnow": "Don't know your type?",
+    "takeTest": "Take the test",
+    "groups": {
+      "NT": "Analysts",
+      "NF": "Diplomats",
+      "SJ": "Sentinels",
+      "SP": "Explorers"
+    }
+  },
+  "quiz": {
+    "progress": "{{current}} of {{total}}",
+    "question": "Question"
+  },
+  "calculating": {
+    "line1": "Revealing",
+    "line2": "your fragrance essence..."
+  },
+  "results": {
+    "title": "Your Fragrance Map",
+    "subtitle": "Three facets of your personality — three scents for each",
+    "dominant": "Dominant",
+    "aspects": {
+      "shadow": "Shadow Self",
+      "sanctuary": "Sanctuary",
+      "armor": "Social Armor"
+    },
+    "perfume": {
+      "topNotes": "Top notes",
+      "middleNotes": "Heart",
+      "baseNotes": "Base",
+      "rating": "Rating",
+      "whyMatch": "Why this scent",
+      "explore": "Explore"
+    },
+    "share": "Share your result",
+    "retake": "Retake the quiz"
+  },
+  "common": {
+    "back": "Back",
+    "loading": "Loading..."
+  }
+}

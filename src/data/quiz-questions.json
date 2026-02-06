@@ -1,0 +1,4241 @@
+[
+  {
+    "id": "intj-q1",
+    "mbtiType": "INTJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Поздний вечер. Вы стоите перед картой незнакомого города, в котором окажетесь завтра. Ваша первая мысль?",
+      "en": "Late evening. You stand before a map of an unfamiliar city you'll find yourself in tomorrow. Your first thought?"
+    },
+    "answers": [
+      {
+        "id": "intj-q1-a",
+        "text": {
+          "ru": "Я уже вижу маршрут — от точки к точке, как шахматная партия. Город ещё не знает, что он мой.",
+          "en": "I can already see the route — point to point, like a chess game. The city doesn't know it's mine yet."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "structured",
+          "woody",
+          "cool"
+        ]
+      },
+      {
+        "id": "intj-q1-b",
+        "text": {
+          "ru": "Мне интересны не улицы, а то, что между ними. Закоулки, о которых не пишут в путеводителях.",
+          "en": "It's not the streets that interest me, but what lies between them. The back alleys no guidebook ever mentions."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "mysterious",
+          "dark",
+          "complex"
+        ]
+      },
+      {
+        "id": "intj-q1-c",
+        "text": {
+          "ru": "Я сворачиваю карту. Лучшее — это утренний кофе в случайном месте, где пахнет выпечкой и мокрым камнем.",
+          "en": "I fold the map. The best part will be morning coffee in some random place that smells of pastry and wet stone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "spiced",
+          "intimate"
+        ]
+      },
+      {
+        "id": "intj-q1-d",
+        "text": {
+          "ru": "Я ищу одно место — то самое, ради которого стоило лететь. Всё остальное — фон.",
+          "en": "I'm searching for one place — the one that made the flight worth it. Everything else is background."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "intense",
+          "singular",
+          "resinous"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intj-q2",
+    "mbtiType": "INTJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вам предложили возглавить проект, который может изменить всё — но команда слабая. Что вы чувствуете первым?",
+      "en": "You've been offered the lead on a project that could change everything — but the team is weak. What do you feel first?"
+    },
+    "answers": [
+      {
+        "id": "intj-q2-a",
+        "text": {
+          "ru": "Холодный расчёт. Слабых можно заменить, систему — выстроить.",
+          "en": "Cold calculation. The weak can be replaced, the system — rebuilt."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "metallic",
+          "sharp",
+          "clean"
+        ]
+      },
+      {
+        "id": "intj-q2-b",
+        "text": {
+          "ru": "Раздражение — но под ним странное удовольствие. Вы любите строить из хаоса.",
+          "en": "Irritation — but beneath it, a strange pleasure. You love building something out of chaos."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "smoky",
+          "leathery",
+          "bold"
+        ]
+      },
+      {
+        "id": "intj-q2-c",
+        "text": {
+          "ru": "Тихую тревогу. Не за проект — за себя. Вы боитесь снова остаться единственным, кто по-настоящему вкладывается.",
+          "en": "A quiet unease. Not for the project — for yourself. You're afraid of being the only one who truly gives it their all, once again."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "soft",
+          "amber",
+          "melancholic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intj-q3",
+    "mbtiType": "INTJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Глубокая ночь. Сон не идёт. Что вас не отпускает?",
+      "en": "Deep into the night. Sleep won't come. What won't let you go?"
+    },
+    "answers": [
+      {
+        "id": "intj-q3-a",
+        "text": {
+          "ru": "Идея. Она ещё не оформилась, но вы чувствуете — за ней что-то огромное.",
+          "en": "An idea. It hasn't taken shape yet, but you can feel it — something enormous behind it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "dark",
+          "incense",
+          "deep"
+        ]
+      },
+      {
+        "id": "intj-q3-b",
+        "text": {
+          "ru": "Разговор, в котором вы не сказали того, что чувствовали. Слова так и остались внутри.",
+          "en": "A conversation where you didn't say what you felt. The words stayed inside, unspoken."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "gentle",
+          "iris",
+          "powdery"
+        ]
+      },
+      {
+        "id": "intj-q3-c",
+        "text": {
+          "ru": "Ничего конкретного — просто ощущение, что мир вокруг движется слишком медленно для вашего внутреннего темпа.",
+          "en": "Nothing specific — just a feeling that the world around you moves too slowly for the pace inside you."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "cool",
+          "ozonic",
+          "austere"
+        ]
+      },
+      {
+        "id": "intj-q3-d",
+        "text": {
+          "ru": "Вы вдруг замечаете, как пахнет ночь за окном — и это на секунду вытесняет всё остальное.",
+          "en": "You suddenly notice how the night smells through the window — and for a second, it displaces everything else."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "green",
+          "night-blooming",
+          "raw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intj-q4",
+    "mbtiType": "INTJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Человек, которого вы уважаете, говорит вам: «Ты слишком закрыт». Ваша честная внутренняя реакция?",
+      "en": "Someone you respect tells you: 'You're too closed off.' Your honest inner reaction?"
+    },
+    "answers": [
+      {
+        "id": "intj-q4-a",
+        "text": {
+          "ru": "Они видят стену. Но за стеной — не пустота, а целый мир, который я выбрал не показывать.",
+          "en": "They see a wall. But behind the wall isn't emptiness — it's an entire world I've chosen not to reveal."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "woody",
+          "dry",
+          "guarded"
+        ]
+      },
+      {
+        "id": "intj-q4-b",
+        "text": {
+          "ru": "На секунду — укол. Может, они правы. Может, я защищаюсь от того, что хочу больше, чем признаю.",
+          "en": "For a second — a sting. Maybe they're right. Maybe I'm guarding myself from wanting more than I'll admit."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "balsamic",
+          "dark",
+          "vulnerable"
+        ]
+      },
+      {
+        "id": "intj-q4-c",
+        "text": {
+          "ru": "Мне не нужно быть открытым для всех. Мне нужен один человек, с которым можно молчать.",
+          "en": "I don't need to be open to everyone. I need one person I can be silent with."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "musk",
+          "intimate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intj-q5",
+    "mbtiType": "INTJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Вы заходите в парфюмерный магазин без цели. К чему тянется рука?",
+      "en": "You walk into a perfume shop with no purpose. What does your hand reach for?"
+    },
+    "answers": [
+      {
+        "id": "intj-q5-a",
+        "text": {
+          "ru": "К чему-то в тёмном флаконе, с названием, которое звучит как шифр.",
+          "en": "Something in a dark bottle, with a name that sounds like a cipher."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "oud",
+          "enigmatic",
+          "dense"
+        ]
+      },
+      {
+        "id": "intj-q5-b",
+        "text": {
+          "ru": "К чему-то неожиданно простому — один аккорд, но безупречный.",
+          "en": "Something unexpectedly simple — a single accord, but flawless."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "minimal",
+          "aldehydic",
+          "precise"
+        ]
+      },
+      {
+        "id": "intj-q5-c",
+        "text": {
+          "ru": "К тестеру, который кто-то забыл на столе — случайному, незнакомому. Именно он окажется тем самым.",
+          "en": "A tester someone left on the counter — random, unknown. That one will turn out to be the one."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "unexpected",
+          "soft",
+          "personal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp-q1",
+    "mbtiType": "INTP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы обнаруживаете, что последние три часа провели в кроличьей норе — статьи, видео, ссылки на ссылки. Где вы оказались?",
+      "en": "You realize you've spent the last three hours down a rabbit hole — articles, videos, links upon links. Where did you end up?"
+    },
+    "answers": [
+      {
+        "id": "intp-q1-a",
+        "text": {
+          "ru": "Там, где никто из знакомых не был. Это знание бесполезно — и именно этим прекрасно.",
+          "en": "Somewhere no one I know has ever been. This knowledge is useless — and that's precisely what makes it beautiful."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "curious",
+          "herbal",
+          "unconventional"
+        ]
+      },
+      {
+        "id": "intp-q1-b",
+        "text": {
+          "ru": "Вы не помните, как начали, но чувствуете странное удовлетворение — как будто собрали невидимый пазл.",
+          "en": "You don't remember how it started, but you feel a strange satisfaction — as if you've assembled an invisible puzzle."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "papery",
+          "dusty"
+        ]
+      },
+      {
+        "id": "intp-q1-c",
+        "text": {
+          "ru": "Вы раздражены на себя. Опять потратили вечер на то, что ничего не даст. Хотя... может, и даст. Потом.",
+          "en": "You're annoyed with yourself. Another evening spent on something that leads nowhere. Although... maybe it will. Eventually."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sharp",
+          "dry",
+          "intellectual"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp-q2",
+    "mbtiType": "INTP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "На вечеринке кто-то задаёт вам вопрос, на который у вас есть блестящий ответ. Но вокруг — десять человек. Что вы делаете?",
+      "en": "At a party, someone asks you a question to which you have a brilliant answer. But there are ten people around. What do you do?"
+    },
+    "answers": [
+      {
+        "id": "intp-q2-a",
+        "text": {
+          "ru": "Говорю. Но потом, по дороге домой, прокручиваю — а так ли блестяще это прозвучало?",
+          "en": "I speak. But later, on the way home, I replay it — was it really as brilliant as I thought?"
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "cool",
+          "citrus",
+          "nervous"
+        ]
+      },
+      {
+        "id": "intp-q2-b",
+        "text": {
+          "ru": "Отвечаю коротко. Полную версию расскажу потом, одному человеку, за кофе — и это будет в сто раз лучше.",
+          "en": "I answer briefly. The full version I'll tell later, to one person, over coffee — and it will be a hundred times better."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "coffee",
+          "intimate",
+          "layered"
+        ]
+      },
+      {
+        "id": "intp-q2-c",
+        "text": {
+          "ru": "Я чувствую, как внутри загорается что-то — редкое, живое. Мне нужна эта искра, даже если потом будет неловко.",
+          "en": "I feel something ignite inside — rare, alive. I need this spark, even if it leads to awkwardness later."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "electric",
+          "spicy",
+          "volatile"
+        ]
+      },
+      {
+        "id": "intp-q2-d",
+        "text": {
+          "ru": "Промолчу. Но в голове уже строится десять ответвлений от этой мысли. Разговор мне не нужен — мне нужно думать.",
+          "en": "I stay silent. But in my head, ten branches are already growing from this thought. I don't need the conversation — I need to think."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "smoky",
+          "cerebral",
+          "labdanum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp-q3",
+    "mbtiType": "INTP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Утро воскресенья. Идеальная версия ближайших часов?",
+      "en": "Sunday morning. The ideal version of the next few hours?"
+    },
+    "answers": [
+      {
+        "id": "intp-q3-a",
+        "text": {
+          "ru": "Тишина. Чай. Окно открыто. Никаких планов, никаких людей, только мысль, которая наконец-то дозревает.",
+          "en": "Silence. Tea. Window open. No plans, no people, just a thought that's finally ripening."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "green tea",
+          "airy",
+          "still"
+        ]
+      },
+      {
+        "id": "intp-q3-b",
+        "text": {
+          "ru": "Случайное открытие — книга, которую вы не собирались читать; дорога, по которой не ходили; мысль, которая ведёт не туда, куда ожидали.",
+          "en": "An accidental discovery — a book you never meant to read; a road you've never walked; a thought that leads somewhere you didn't expect."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "unusual",
+          "aromatic",
+          "wandering"
+        ]
+      },
+      {
+        "id": "intp-q3-c",
+        "text": {
+          "ru": "Мне хочется позвонить кому-то. Это редкое желание — и именно поэтому важное.",
+          "en": "I want to call someone. It's a rare desire — and that's exactly what makes it important."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "soft",
+          "aldehydic",
+          "tender"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp-q4",
+    "mbtiType": "INTP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Вам говорят: «Ты слишком много думаешь». Что вы чувствуете на самом деле?",
+      "en": "Someone tells you: 'You think too much.' What do you actually feel?"
+    },
+    "answers": [
+      {
+        "id": "intp-q4-a",
+        "text": {
+          "ru": "Усталость. Не от слов — от того, что это правда, и вы не знаете, как остановить машину внутри.",
+          "en": "Exhaustion. Not from the words — from knowing it's true, and not knowing how to stop the machine inside."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "heavy",
+          "benzoin",
+          "drowsy"
+        ]
+      },
+      {
+        "id": "intp-q4-b",
+        "text": {
+          "ru": "Гордость, замаскированную под безразличие. Думать — это то, что вы умеете лучше всего.",
+          "en": "Pride disguised as indifference. Thinking is what you do best."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "cool",
+          "vetiver",
+          "composed"
+        ]
+      },
+      {
+        "id": "intp-q4-c",
+        "text": {
+          "ru": "Секундный страх: а что, если за всеми мыслями я пропускаю что-то, что нужно просто прожить?",
+          "en": "A flash of fear: what if behind all this thinking, I'm missing something that simply needs to be lived?"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "raw",
+          "green",
+          "alive"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp-q5",
+    "mbtiType": "INTP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Запах, который мгновенно переносит вас в другое состояние?",
+      "en": "A scent that instantly transports you to another state of being?"
+    },
+    "answers": [
+      {
+        "id": "intp-q5-a",
+        "text": {
+          "ru": "Запах старых книг, пыльного дерева — что-то из детства или из места, где вам было тихо и хорошо.",
+          "en": "The smell of old books, dusty wood — something from childhood, or from a place where things were quiet and good."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "papyrus",
+          "cedar",
+          "nostalgic"
+        ]
+      },
+      {
+        "id": "intp-q5-b",
+        "text": {
+          "ru": "Что-то резкое и странное — бензин, металл, озон после грозы. Не красивое, но настоящее.",
+          "en": "Something sharp and strange — gasoline, metal, ozone after a thunderstorm. Not beautiful, but real."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "metallic",
+          "ozonic",
+          "raw"
+        ]
+      },
+      {
+        "id": "intp-q5-c",
+        "text": {
+          "ru": "Чей-то парфюм в толпе — на секунду, мимоходом. Вы не знаете что это, но хотите узнать.",
+          "en": "Someone's perfume in a crowd — for a second, in passing. You don't know what it is, but you want to find out."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "fleeting",
+          "complex",
+          "intriguing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj-q1",
+    "mbtiType": "ENTJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Переговоры прошли идеально. Вы получили всё, что хотели. Вечером, наедине с собой, вы чувствуете...",
+      "en": "The negotiations went perfectly. You got everything you wanted. That evening, alone with yourself, you feel..."
+    },
+    "answers": [
+      {
+        "id": "entj-q1-a",
+        "text": {
+          "ru": "Пустоту. Победа есть, но кому рассказать так, чтобы поняли — что это значило на самом деле?",
+          "en": "Emptiness. The victory is here, but who can you tell so they truly understand what it meant?"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "amber",
+          "hollow",
+          "intimate"
+        ]
+      },
+      {
+        "id": "entj-q1-b",
+        "text": {
+          "ru": "Огонь. Это только начало. Следующая цель уже видна.",
+          "en": "Fire. This is only the beginning. The next target is already in sight."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "bold",
+          "saffron",
+          "commanding"
+        ]
+      },
+      {
+        "id": "entj-q1-c",
+        "text": {
+          "ru": "Что-то тёмное и честное: вам понравилось побеждать. Не результат — сам процесс. Власть над ситуацией.",
+          "en": "Something dark and honest: you enjoyed winning. Not the outcome — the process itself. The power over the situation."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "leather",
+          "oud",
+          "dominant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj-q2",
+    "mbtiType": "ENTJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы замечаете, что подчинённый, которого вы уважаете, избегает вас. Первая реакция?",
+      "en": "You notice that a subordinate you respect has been avoiding you. Your first reaction?"
+    },
+    "answers": [
+      {
+        "id": "entj-q2-a",
+        "text": {
+          "ru": "Анализ. Что изменилось? Где сбой? Это нужно починить — люди не должны бояться.",
+          "en": "Analysis. What changed? Where's the fault? This needs fixing — people shouldn't be afraid."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "clean",
+          "structured",
+          "bergamot"
+        ]
+      },
+      {
+        "id": "entj-q2-b",
+        "text": {
+          "ru": "Краткая, неожиданная боль. Вы хотите, чтобы вас не только слушали, но и... любили? Это слово вы никогда не произносите вслух.",
+          "en": "A brief, unexpected pain. You want to be not just heard, but... loved? That's a word you never say out loud."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "rose",
+          "dark",
+          "vulnerable"
+        ]
+      },
+      {
+        "id": "entj-q2-c",
+        "text": {
+          "ru": "Раздражение — и тут же стыд за раздражение. Вы знаете, что бываете слишком... много.",
+          "en": "Irritation — and immediately, shame for the irritation. You know you can be too... much."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "soft",
+          "iris",
+          "quiet"
+        ]
+      },
+      {
+        "id": "entj-q2-d",
+        "text": {
+          "ru": "Вы подходите и спрашиваете напрямую. Если что-то сломано — вы хотите это знать.",
+          "en": "You walk up and ask directly. If something's broken — you want to know."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "direct",
+          "woody",
+          "dry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj-q3",
+    "mbtiType": "ENTJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Поздно ночью вы включаете музыку. Что это?",
+      "en": "Late at night, you put on music. What is it?"
+    },
+    "answers": [
+      {
+        "id": "entj-q3-a",
+        "text": {
+          "ru": "Что-то мощное — оркестр, нарастание, финал, от которого сжимается всё внутри.",
+          "en": "Something powerful — an orchestra, a crescendo, a finale that tightens everything inside you."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "grand",
+          "resinous",
+          "dramatic"
+        ]
+      },
+      {
+        "id": "entj-q3-b",
+        "text": {
+          "ru": "Что-то, чего никто из ваших знакомых от вас не ожидает. Нежное. Простое. Почти детское.",
+          "en": "Something no one who knows you would expect. Tender. Simple. Almost childlike."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "gentle",
+          "vanilla",
+          "powder"
+        ]
+      },
+      {
+        "id": "entj-q3-c",
+        "text": {
+          "ru": "Тишина. Музыка сейчас — это слишком. Вам нужно просто сидеть в темноте и дышать.",
+          "en": "Silence. Music right now is too much. You just need to sit in the dark and breathe."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "minimal",
+          "skin",
+          "musk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj-q4",
+    "mbtiType": "ENTJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Вам предлагают на месяц отказаться от всех обязательств. Что пугает больше?",
+      "en": "You're offered a month free of all obligations. What frightens you more?"
+    },
+    "answers": [
+      {
+        "id": "entj-q4-a",
+        "text": {
+          "ru": "Что я не выдержу — потеряю хватку, темп, себя.",
+          "en": "That I won't endure it — I'll lose my edge, my pace, myself."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sharp",
+          "metallic",
+          "tense"
+        ]
+      },
+      {
+        "id": "entj-q4-b",
+        "text": {
+          "ru": "Что я выдержу — и пойму, что всё это время бежал от тишины внутри.",
+          "en": "That I will endure it — and realize I've been running from the silence inside me all along."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "deep",
+          "incense",
+          "confrontational"
+        ]
+      },
+      {
+        "id": "entj-q4-c",
+        "text": {
+          "ru": "Ничего не пугает. Пугает, что я этого хочу и никому не могу в этом признаться.",
+          "en": "Nothing frightens me. What frightens me is that I want it — and can't admit that to anyone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "sandalwood",
+          "hidden"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj-q5",
+    "mbtiType": "ENTJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Какой комплимент вам важнее всего — тот, который вы никогда не попросите?",
+      "en": "Which compliment matters most to you — the one you would never ask for?"
+    },
+    "answers": [
+      {
+        "id": "entj-q5-a",
+        "text": {
+          "ru": "«С тобой я чувствую себя в безопасности.»",
+          "en": "'With you, I feel safe.'"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "enveloping",
+          "amber",
+          "protective"
+        ]
+      },
+      {
+        "id": "entj-q5-b",
+        "text": {
+          "ru": "«Ты единственный, кто видит картину целиком.»",
+          "en": "'You're the only one who sees the whole picture.'"
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "grand",
+          "cedar",
+          "visionary"
+        ]
+      },
+      {
+        "id": "entj-q5-c",
+        "text": {
+          "ru": "«Я вижу, как тебе бывает одиноко. И я рядом.»",
+          "en": "'I see how lonely it gets for you. And I'm here.'"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "tender",
+          "musk",
+          "exposed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp-q1",
+    "mbtiType": "ENTP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы на середине разговора, который сами начали. Вдруг вам становится скучно. Что происходит дальше?",
+      "en": "You're in the middle of a conversation you started. Suddenly, you're bored. What happens next?"
+    },
+    "answers": [
+      {
+        "id": "entp-q1-a",
+        "text": {
+          "ru": "Я резко меняю тему — так, что собеседник не замечает шва. Это почти искусство.",
+          "en": "I shift the topic so sharply the other person doesn't notice the seam. It's almost an art form."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sparkling",
+          "citrus",
+          "mercurial"
+        ]
+      },
+      {
+        "id": "entp-q1-b",
+        "text": {
+          "ru": "Я чувствую знакомую тоску — я хочу глубины, но сам убегаю от неё каждый раз.",
+          "en": "I feel a familiar ache — I crave depth, yet I'm the one who runs from it every time."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "bittersweet",
+          "amber",
+          "restless"
+        ]
+      },
+      {
+        "id": "entp-q1-c",
+        "text": {
+          "ru": "Я извиняюсь, ухожу — и иду туда, где тихо. Мне нужно побыть в тишине. Это редкое, стыдное желание.",
+          "en": "I apologize, leave — and go somewhere quiet. I need stillness. It's a rare, shameful desire."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "quiet",
+          "linen",
+          "clean"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp-q2",
+    "mbtiType": "ENTP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вам предлагают два пути: гарантированный успех в том, что вы уже умеете, или прыжок в неизвестное с шансом провала. Третьей опции нет. Что происходит у вас внутри?",
+      "en": "You're offered two paths: guaranteed success in what you already know, or a leap into the unknown with a chance of failure. There is no third option. What happens inside you?"
+    },
+    "answers": [
+      {
+        "id": "entp-q2-a",
+        "text": {
+          "ru": "Тело уже выбрало — прыжок. Голова догонит потом.",
+          "en": "My body has already chosen — the leap. My mind will catch up later."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "electric",
+          "ginger",
+          "bold"
+        ]
+      },
+      {
+        "id": "entp-q2-b",
+        "text": {
+          "ru": "Я знаю, что выберу прыжок. Но на секунду — честно — мне хочется стабильности. И эта секунда пугает больше, чем любой провал.",
+          "en": "I know I'll choose the leap. But for a second — honestly — I want stability. And that second frightens me more than any failure."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "complex",
+          "vetiver",
+          "torn"
+        ]
+      },
+      {
+        "id": "entp-q2-c",
+        "text": {
+          "ru": "Я буду неделю придумывать третью опцию. Потому что выбирать из двух — это не для меня.",
+          "en": "I'll spend a week inventing a third option. Because choosing between two is not my style."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sharp",
+          "neroli",
+          "defiant"
+        ]
+      },
+      {
+        "id": "entp-q2-d",
+        "text": {
+          "ru": "Гарантированный успех. Я устал от хаоса. Я никому этого не скажу.",
+          "en": "Guaranteed success. I'm tired of chaos. I'll never tell anyone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "honey",
+          "surrendered"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp-q3",
+    "mbtiType": "ENTP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Близкий человек говорит: «Ты никогда не бываешь серьёзным». Правда?",
+      "en": "Someone close to you says: 'You're never serious.' Is it true?"
+    },
+    "answers": [
+      {
+        "id": "entp-q3-a",
+        "text": {
+          "ru": "Правда — и это мой щит. Если я буду серьёзным, придётся признать, как сильно мне не всё равно.",
+          "en": "It's true — and it's my shield. If I got serious, I'd have to admit how deeply I actually care."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "dark",
+          "cardamom",
+          "hidden depth"
+        ]
+      },
+      {
+        "id": "entp-q3-b",
+        "text": {
+          "ru": "Неправда. Я серьёзен почти всегда — просто прячу это так хорошо, что никто не замечает.",
+          "en": "It's not true. I'm serious almost all the time — I just hide it so well that no one notices."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "layered",
+          "bergamot",
+          "masked"
+        ]
+      },
+      {
+        "id": "entp-q3-c",
+        "text": {
+          "ru": "Они видят только поверхность. Внутри — лабиринт, и я сам в нём иногда теряюсь.",
+          "en": "They only see the surface. Inside is a labyrinth, and even I get lost in it sometimes."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "labyrinthine",
+          "incense",
+          "smoky"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp-q4",
+    "mbtiType": "ENTP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Место, куда вы возвращаетесь в мыслях, когда мир становится слишком шумным?",
+      "en": "The place you return to in your mind when the world gets too loud?"
+    },
+    "answers": [
+      {
+        "id": "entp-q4-a",
+        "text": {
+          "ru": "Его не существует. Оно каждый раз новое — я не возвращаюсь, я изобретаю.",
+          "en": "It doesn't exist. It's different every time — I don't return, I invent."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "changing",
+          "ozonic",
+          "inventive"
+        ]
+      },
+      {
+        "id": "entp-q4-b",
+        "text": {
+          "ru": "Кухня. Чьи-то руки. Запах еды. Что-то настолько простое, что я стесняюсь об этом говорить.",
+          "en": "A kitchen. Someone's hands. The smell of food. Something so simple I'm embarrassed to even say it."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "gourmand",
+          "cinnamon",
+          "nostalgic"
+        ]
+      },
+      {
+        "id": "entp-q4-c",
+        "text": {
+          "ru": "Ночная дорога — окна открыты, музыка громко, я один и мне хорошо. Или нет. Но я еду.",
+          "en": "A night road — windows down, music loud, I'm alone and it feels good. Or it doesn't. But I keep driving."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "open road",
+          "petrichor",
+          "wild"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp-q5",
+    "mbtiType": "ENTP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Если бы ваш внутренний мир стал запахом, он был бы...",
+      "en": "If your inner world became a scent, it would be..."
+    },
+    "answers": [
+      {
+        "id": "entp-q5-a",
+        "text": {
+          "ru": "Чем-то, что постоянно меняется — первая нота не похожа на последнюю, и в этом вся суть.",
+          "en": "Something that constantly shifts — the opening note nothing like the last, and that's the whole point."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "transformative",
+          "spicy-to-sweet",
+          "complex"
+        ]
+      },
+      {
+        "id": "entp-q5-b",
+        "text": {
+          "ru": "Чем-то тёплым и забытым. Как комната, в которой давно никто не был, но свет всё ещё горит.",
+          "en": "Something warm and forgotten. Like a room no one has entered in a long time, but the light is still on."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "dusty",
+          "vanilla",
+          "amber",
+          "forgotten"
+        ]
+      },
+      {
+        "id": "entp-q5-c",
+        "text": {
+          "ru": "Чем-то, что невозможно описать — потому что в тот момент, когда вы его называете, оно становится чем-то другим.",
+          "en": "Something impossible to describe — because the moment you name it, it becomes something else."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "abstract",
+          "smoke",
+          "shifting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj-q1",
+    "mbtiType": "INFJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы чувствуете, что близкий человек страдает — но он улыбается и говорит «всё хорошо». Что происходит внутри вас?",
+      "en": "You sense that someone close to you is suffering — but they smile and say 'everything's fine.' What happens inside you?"
+    },
+    "answers": [
+      {
+        "id": "infj-q1-a",
+        "text": {
+          "ru": "Боль — чужая, но я ношу её как свою. Я не могу не чувствовать. Это дар и проклятие.",
+          "en": "The pain is theirs, but I carry it as my own. I can't not feel it. It is both a gift and a curse."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "deep",
+          "myrrh",
+          "heavy"
+        ]
+      },
+      {
+        "id": "infj-q1-b",
+        "text": {
+          "ru": "Я молчу. Я подожду. Когда придёт время — я скажу одну фразу, и она будет точной.",
+          "en": "I stay silent. I wait. When the moment comes, I will say one sentence — and it will land exactly where it needs to."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "precise",
+          "violet",
+          "contained"
+        ]
+      },
+      {
+        "id": "infj-q1-c",
+        "text": {
+          "ru": "Мне хочется уйти. Не от него — от себя. От этого невыносимого умения видеть сквозь людей.",
+          "en": "I want to leave. Not from them — from myself. From this unbearable ability to see right through people."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "aquatic",
+          "escape",
+          "cool"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj-q2",
+    "mbtiType": "INFJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вам снится один и тот же сон — город, в котором вы никогда не были, но знаете каждую улицу. Что вы чувствуете, просыпаясь?",
+      "en": "You keep having the same dream — a city you've never visited, yet you know every street. What do you feel upon waking?"
+    },
+    "answers": [
+      {
+        "id": "infj-q2-a",
+        "text": {
+          "ru": "Тоску по месту, которое, может быть, не существует. Но оно реальнее, чем то, что за окном.",
+          "en": "A longing for a place that may not exist. Yet it feels more real than anything outside my window."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "otherworldly",
+          "iris",
+          "ethereal"
+        ]
+      },
+      {
+        "id": "infj-q2-b",
+        "text": {
+          "ru": "Спокойствие. Этот сон — мой. Единственное место, где меня никто не просит быть сильным.",
+          "en": "Peace. This dream is mine. The only place where no one asks me to be strong."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "lavender",
+          "soft",
+          "dreamy"
+        ]
+      },
+      {
+        "id": "infj-q2-c",
+        "text": {
+          "ru": "Решимость. Я должен найти — или создать — это место наяву.",
+          "en": "Resolve. I must find — or build — this place in the waking world."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "determined",
+          "frankincense",
+          "purposeful"
+        ]
+      },
+      {
+        "id": "infj-q2-d",
+        "text": {
+          "ru": "Страх. Я слишком часто живу внутри — и граница становится всё тоньше.",
+          "en": "Fear. I spend too much time living inside — and the boundary is growing thinner."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "liminal",
+          "fog",
+          "benzoin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj-q3",
+    "mbtiType": "INFJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Вы помогли человеку. Он даже не заметил. Это...",
+      "en": "You helped someone. They didn't even notice. This is..."
+    },
+    "answers": [
+      {
+        "id": "infj-q3-a",
+        "text": {
+          "ru": "Нормально. Я не для благодарности. Но иногда — только иногда — хочется, чтобы кто-то заметил, чего мне это стоит.",
+          "en": "Normal. I don't do it for gratitude. But sometimes — just sometimes — I wish someone would notice what it costs me."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "bittersweet",
+          "oud",
+          "sacrificial"
+        ]
+      },
+      {
+        "id": "infj-q3-b",
+        "text": {
+          "ru": "Идеально. Лучшая помощь — невидимая.",
+          "en": "Perfect. The best help is the kind that goes unseen."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "clean",
+          "white musk",
+          "invisible"
+        ]
+      },
+      {
+        "id": "infj-q3-c",
+        "text": {
+          "ru": "Больно. Я знаю, что так нельзя — отдавать и молчать. Но я не умею иначе.",
+          "en": "Painful. I know I shouldn't keep giving in silence. But I don't know any other way."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "tender",
+          "peony",
+          "wounded"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj-q4",
+    "mbtiType": "INFJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Редкий момент: вы абсолютно одни, и никто ничего от вас не ждёт. Что вы делаете?",
+      "en": "A rare moment: you are completely alone, and no one expects anything of you. What do you do?"
+    },
+    "answers": [
+      {
+        "id": "infj-q4-a",
+        "text": {
+          "ru": "Ничего. И это — роскошь. Я просто существую, без роли.",
+          "en": "Nothing. And that is a luxury. I simply exist, without a role to play."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "still",
+          "cashmere",
+          "warm"
+        ]
+      },
+      {
+        "id": "infj-q4-b",
+        "text": {
+          "ru": "Я наконец позволяю себе то, что обычно подавляю: громкую музыку, острую еду, что-то чувственное и земное.",
+          "en": "I finally allow myself what I usually suppress: loud music, spicy food, something sensual and earthly."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "sensual",
+          "saffron",
+          "carnal"
+        ]
+      },
+      {
+        "id": "infj-q4-c",
+        "text": {
+          "ru": "Я думаю. О будущем, о смысле, о том, куда всё это ведёт. Покой — это не отсутствие мыслей, а свобода думать без вины.",
+          "en": "I think. About the future, about meaning, about where all of this is leading. Peace is not the absence of thought — it is the freedom to think without guilt."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "contemplative",
+          "sandalwood",
+          "blue"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj-q5",
+    "mbtiType": "INFJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Какая фраза вызывает у вас самый сильный отклик?",
+      "en": "Which phrase resonates with you most deeply?"
+    },
+    "answers": [
+      {
+        "id": "infj-q5-a",
+        "text": {
+          "ru": "«Я знаю, что ты устал быть сильным. Можно просто быть.»",
+          "en": "'I know you're tired of being strong. You're allowed to just be.'"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "releasing",
+          "cotton",
+          "breath"
+        ]
+      },
+      {
+        "id": "infj-q5-b",
+        "text": {
+          "ru": "«В тебе есть что-то, что пугает — и именно это делает тебя незаменимым.»",
+          "en": "'There is something in you that frightens — and that is precisely what makes you irreplaceable.'"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "dark",
+          "jasmine night",
+          "intense"
+        ]
+      },
+      {
+        "id": "infj-q5-c",
+        "text": {
+          "ru": "«Ты видишь мир не таким, какой он есть, а таким, каким он мог бы быть.»",
+          "en": "'You see the world not as it is, but as it could become.'"
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "visionary",
+          "neroli",
+          "luminous"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp-q1",
+    "mbtiType": "INFP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы перечитываете старое письмо — своё, ненаписанное, сохранённое в черновиках. Что вы чувствуете?",
+      "en": "You reread an old letter — yours, never sent, saved in drafts. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "infp-q1-a",
+        "text": {
+          "ru": "Нежность к себе-прошлому. Тот человек был честнее. Я хочу вернуть его.",
+          "en": "Tenderness toward my past self. That person was more honest. I want to bring them back."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "nostalgic",
+          "heliotrope",
+          "powdery"
+        ]
+      },
+      {
+        "id": "infp-q1-b",
+        "text": {
+          "ru": "Стыд — и восхищение одновременно. Столько чувств. Как я мог быть таким открытым?",
+          "en": "Shame — and admiration at once. So many feelings. How could I have been so open?"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "raw",
+          "rose absolute",
+          "exposed"
+        ]
+      },
+      {
+        "id": "infp-q1-c",
+        "text": {
+          "ru": "Злость. Я написал и не отправил. Как всегда. Слова остались во мне, и я несу их до сих пор.",
+          "en": "Anger. I wrote it and never sent it. As always. The words stayed inside me, and I carry them still."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "bitter",
+          "galbanum",
+          "thorny"
+        ]
+      },
+      {
+        "id": "infp-q1-d",
+        "text": {
+          "ru": "Тихое удовольствие. Это моё — и это не обязано быть прочитанным кем-то другим.",
+          "en": "A quiet pleasure. This is mine — and it doesn't owe itself to anyone else's eyes."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "private",
+          "paper",
+          "ink"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp-q2",
+    "mbtiType": "INFP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы в новом месте. Все вокруг в восторге. А вы...",
+      "en": "You're in a new place. Everyone around you is thrilled. And you..."
+    },
+    "answers": [
+      {
+        "id": "infp-q2-a",
+        "text": {
+          "ru": "Ищу уголок, где можно побыть одному — не потому что плохо, а потому что мне нужно время, чтобы впустить это в себя.",
+          "en": "I look for a corner where I can be alone — not because something is wrong, but because I need time to let it all in."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "withdrawn",
+          "moss",
+          "quiet"
+        ]
+      },
+      {
+        "id": "infp-q2-b",
+        "text": {
+          "ru": "Чувствую всё сразу — красоту, грусть, присутствие чего-то невидимого. Это слишком, но я не хочу, чтобы это прекращалось.",
+          "en": "I feel everything at once — beauty, sorrow, the presence of something invisible. It's too much, but I don't want it to stop."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "overwhelming",
+          "tuberose",
+          "lush"
+        ]
+      },
+      {
+        "id": "infp-q2-c",
+        "text": {
+          "ru": "Улыбаюсь вместе со всеми. Но внутри — отдельный разговор. Моё восхищение — не как у них. Оно тише и глубже.",
+          "en": "I smile along with everyone. But inside, a separate conversation is unfolding. My wonder is not like theirs. It is quieter and deeper."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "veiled",
+          "violet leaf",
+          "delicate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp-q3",
+    "mbtiType": "INFP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Человек, который вам дорог, просит вашего мнения — честного. Вы знаете, что правда ранит. Как вы поступаете?",
+      "en": "Someone dear to you asks for your opinion — an honest one. You know the truth will hurt. What do you do?"
+    },
+    "answers": [
+      {
+        "id": "infp-q3-a",
+        "text": {
+          "ru": "Я скажу правду — но оберну её в столько нежности, что она войдёт мягко. Это моё умение.",
+          "en": "I will tell the truth — but wrap it in so much tenderness that it lands softly. That is my gift."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "gentle",
+          "peach",
+          "diplomatic"
+        ]
+      },
+      {
+        "id": "infp-q3-b",
+        "text": {
+          "ru": "Я скажу прямо. Мягкость — не всегда доброта. Иногда внутри меня просыпается сталь, которую никто не ожидает.",
+          "en": "I will say it directly. Softness is not always kindness. Sometimes a steel awakens inside me that no one expects."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "sharp",
+          "vetiver",
+          "unexpected steel"
+        ]
+      },
+      {
+        "id": "infp-q3-c",
+        "text": {
+          "ru": "Я промолчу. И буду чувствовать это молчание неделю, как открытую рану.",
+          "en": "I will stay silent. And I will feel that silence for a week, like an open wound."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "aching",
+          "mimosa",
+          "silent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp-q4",
+    "mbtiType": "INFP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Что для вас «дом» — не место, а ощущение?",
+      "en": "What is 'home' to you — not as a place, but as a feeling?"
+    },
+    "answers": [
+      {
+        "id": "infp-q4-a",
+        "text": {
+          "ru": "Человек, рядом с которым можно молчать и быть понятым.",
+          "en": "A person beside whom I can be silent and still be understood."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "warm",
+          "vanilla",
+          "skin-close"
+        ]
+      },
+      {
+        "id": "infp-q4-b",
+        "text": {
+          "ru": "Момент, когда реальность совпадает с тем, что я всегда чувствовал внутри. Это бывает редко — и именно поэтому я живу.",
+          "en": "The moment when reality aligns with what I have always felt inside. It happens rarely — and that is precisely why I live."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "transcendent",
+          "ambergris",
+          "luminous"
+        ]
+      },
+      {
+        "id": "infp-q4-c",
+        "text": {
+          "ru": "Процесс создания — когда руки заняты, голова свободна, и я наконец чувствую, что существую.",
+          "en": "The act of creating — when my hands are busy, my mind is free, and I finally feel that I exist."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "creative",
+          "cedar",
+          "grounded"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp-q5",
+    "mbtiType": "INFP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Вы чувствуете грусть — не из-за чего-то конкретного. Просто грусть. Что вы с ней делаете?",
+      "en": "You feel sadness — not because of anything specific. Just sadness. What do you do with it?"
+    },
+    "answers": [
+      {
+        "id": "infp-q5-a",
+        "text": {
+          "ru": "Впускаю. Она красивая. Она — часть того, что делает меня мной.",
+          "en": "I let it in. It is beautiful. It is part of what makes me who I am."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "melancholic",
+          "rain",
+          "blue lotus"
+        ]
+      },
+      {
+        "id": "infp-q5-b",
+        "text": {
+          "ru": "Заворачиваюсь в что-то мягкое — плед, музыку, запах чая — и жду, пока пройдёт. Я знаю, что пройдёт.",
+          "en": "I wrap myself in something soft — a blanket, music, the scent of tea — and wait for it to pass. I know it will."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "cocooning",
+          "chamomile",
+          "woolly"
+        ]
+      },
+      {
+        "id": "infp-q5-c",
+        "text": {
+          "ru": "Превращаю её во что-то. Пишу, рисую, напеваю. Грусть — это топливо, если знать, как его использовать.",
+          "en": "I turn it into something. I write, I draw, I hum. Sadness is fuel, if you know how to use it."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "alchemical",
+          "ink",
+          "smoky-sweet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj-q1",
+    "mbtiType": "ENFJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы только что провели вечер в центре внимания — все смеялись, все были счастливы. Дверь закрылась. Что осталось?",
+      "en": "You've just spent an evening as the center of attention — everyone was laughing, everyone was happy. The door closes. What remains?"
+    },
+    "answers": [
+      {
+        "id": "enfj-q1-a",
+        "text": {
+          "ru": "Опустошение. Я дал всё — и теперь внутри пусто, как в театре после спектакля.",
+          "en": "Emptiness. I gave everything — and now the inside is hollow, like a theater after the final curtain."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "hollow",
+          "labdanum",
+          "theatrical"
+        ]
+      },
+      {
+        "id": "enfj-q1-b",
+        "text": {
+          "ru": "Удовлетворение. Я создал это. Каждая улыбка — мой маленький шедевр.",
+          "en": "Satisfaction. I created this. Every smile — my small masterpiece."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "warm",
+          "orange blossom",
+          "orchestrated"
+        ]
+      },
+      {
+        "id": "enfj-q1-c",
+        "text": {
+          "ru": "Тихий голод. Все получили то, что хотели. А я? Что хотел я?",
+          "en": "A quiet hunger. Everyone got what they wanted. But what about me? What did I want?"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "hungry",
+          "dark honey",
+          "unfulfilled"
+        ]
+      },
+      {
+        "id": "enfj-q1-d",
+        "text": {
+          "ru": "Облегчение. Наконец можно снять маску и просто лечь в тишине.",
+          "en": "Relief. At last I can take off the mask and simply lie in silence."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "bare",
+          "clean cotton",
+          "release"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj-q2",
+    "mbtiType": "ENFJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы видите, что кто-то в группе чувствует себя лишним. Все заняты друг другом. Что вы делаете?",
+      "en": "You notice someone in the group feels like an outsider. Everyone is absorbed in each other. What do you do?"
+    },
+    "answers": [
+      {
+        "id": "enfj-q2-a",
+        "text": {
+          "ru": "Подхожу. Не думая. Моё тело движется раньше, чем голова — это инстинкт, и он сильнее меня.",
+          "en": "I walk over. Without thinking. My body moves before my mind — it's instinct, and it's stronger than I am."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "magnetic",
+          "jasmine",
+          "enveloping"
+        ]
+      },
+      {
+        "id": "enfj-q2-b",
+        "text": {
+          "ru": "Подхожу — но внутри холодный расчёт: как повернуть ситуацию, чтобы все чувствовали себя включёнными. Это стратегия, не доброта. И этого я стыжусь.",
+          "en": "I walk over — but inside there is cold calculation: how to steer the situation so everyone feels included. It's strategy, not kindness. And I'm ashamed of that."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "calculated",
+          "cool",
+          "green tea"
+        ]
+      },
+      {
+        "id": "enfj-q2-c",
+        "text": {
+          "ru": "Я замечаю — но сегодня у меня нет сил. И вина за это будет преследовать меня до утра.",
+          "en": "I notice — but today I have no strength. And the guilt for it will haunt me until morning."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "guilt",
+          "rose water",
+          "heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj-q3",
+    "mbtiType": "ENFJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Что вы делаете, когда вам плохо — по-настоящему?",
+      "en": "What do you do when you're truly hurting — really, deeply?"
+    },
+    "answers": [
+      {
+        "id": "enfj-q3-a",
+        "text": {
+          "ru": "Заботиться о ком-то другом. Это единственный способ, который я знаю.",
+          "en": "Take care of someone else. It's the only way I know."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "deflecting",
+          "neroli",
+          "bright shell"
+        ]
+      },
+      {
+        "id": "enfj-q3-b",
+        "text": {
+          "ru": "Прячусь. Никто не должен видеть это. Мой мир держится на том, что я — сильный.",
+          "en": "I hide. No one should see this. My world is held together by the belief that I am strong."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "hidden",
+          "myrrh",
+          "dark shelter"
+        ]
+      },
+      {
+        "id": "enfj-q3-c",
+        "text": {
+          "ru": "Ищу что-то физическое — движение, вкус, прикосновение. Мне нужно вспомнить, что я существую не только для других.",
+          "en": "I seek something physical — movement, taste, touch. I need to remember that I exist not only for others."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "sensory",
+          "cinnamon bark",
+          "grounding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj-q4",
+    "mbtiType": "ENFJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Вам предлагают всё бросить и уехать на год — одному. Ваша первая честная эмоция?",
+      "en": "You're offered the chance to drop everything and leave for a year — alone. What is your first honest emotion?"
+    },
+    "answers": [
+      {
+        "id": "enfj-q4-a",
+        "text": {
+          "ru": "Ужас. Я не знаю, кто я, когда рядом никого нет. И это — моя самая страшная правда.",
+          "en": "Terror. I don't know who I am when there is no one around. And that is my most frightening truth."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "existential",
+          "vetiver",
+          "void"
+        ]
+      },
+      {
+        "id": "enfj-q4-b",
+        "text": {
+          "ru": "Мечта, которую я никогда не осуществлю. Потому что те, кто зависит от меня, важнее моих желаний.",
+          "en": "A dream I will never fulfill. Because those who depend on me matter more than my own desires."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sacrificial",
+          "iris",
+          "noble"
+        ]
+      },
+      {
+        "id": "enfj-q4-c",
+        "text": {
+          "ru": "Тихое «да». Шёпотом. Чтобы никто не услышал.",
+          "en": "A quiet 'yes.' Whispered. So that no one would hear."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "secret",
+          "white tea",
+          "distant"
+        ]
+      },
+      {
+        "id": "enfj-q4-d",
+        "text": {
+          "ru": "Я поеду — и первое, что сделаю, это найду людей. Других. Новых. Я не умею без этого.",
+          "en": "I would go — and the first thing I'd do is find people. Different ones. New ones. I don't know how to be without that."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "social",
+          "grapefruit",
+          "connecting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj-q5",
+    "mbtiType": "ENFJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Запах, который вы бы хотели оставлять после себя?",
+      "en": "What scent would you want to leave behind you?"
+    },
+    "answers": [
+      {
+        "id": "enfj-q5-a",
+        "text": {
+          "ru": "Что-то, что люди не могут описать, но помнят годами.",
+          "en": "Something people cannot describe, yet remember for years."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "unforgettable",
+          "ambergris",
+          "trail"
+        ]
+      },
+      {
+        "id": "enfj-q5-b",
+        "text": {
+          "ru": "Что-то тёплое и безопасное — как объятие, которое длится даже после ухода.",
+          "en": "Something warm and safe — like an embrace that lingers even after you leave."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "embracing",
+          "vanilla",
+          "cashmere"
+        ]
+      },
+      {
+        "id": "enfj-q5-c",
+        "text": {
+          "ru": "Ничего. Я хочу, чтобы после меня оставалась тишина — а не ещё одна роль, которую нужно играть.",
+          "en": "Nothing. I want to leave silence behind me — not yet another role to be performed."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "absence",
+          "clean skin",
+          "freedom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp-q1",
+    "mbtiType": "ENFP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы знакомитесь с кем-то новым — и через пять минут чувствуете, что знаете этого человека всю жизнь. Это...",
+      "en": "You meet someone new — and within five minutes you feel as though you've known them your whole life. This is..."
+    },
+    "answers": [
+      {
+        "id": "enfp-q1-a",
+        "text": {
+          "ru": "Моя суперсила. Я нахожу в каждом что-то настоящее — и показываю им это.",
+          "en": "My superpower. I find something real in everyone — and I show it to them."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "radiant",
+          "bergamot",
+          "sunlit"
+        ]
+      },
+      {
+        "id": "enfp-q1-b",
+        "text": {
+          "ru": "Иллюзия, которую я создаю — и в которую сам верю. Потом, один, я не знаю, что из этого было реальным.",
+          "en": "An illusion I create — and believe in myself. Later, alone, I no longer know what was real."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "illusory",
+          "tuberose",
+          "intoxicating"
+        ]
+      },
+      {
+        "id": "enfp-q1-c",
+        "text": {
+          "ru": "Прекрасно — но потом мне нужно уйти и побыть тем, кто я есть без отражения в чужих глазах.",
+          "en": "Wonderful — but afterward I need to step away and be who I am without my reflection in someone else's eyes."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "retreating",
+          "fig leaf",
+          "grounding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp-q2",
+    "mbtiType": "ENFP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы начали пять проектов. Закончили ноль. Что вы чувствуете?",
+      "en": "You've started five projects. Finished none. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "enfp-q2-a",
+        "text": {
+          "ru": "Стыд — но не за незавершённость, а за то, что огонь погас. Куда уходит страсть? Почему я не могу удержать её?",
+          "en": "Shame — but not for leaving things unfinished. For the fire going out. Where does the passion go? Why can't I hold onto it?"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "fading",
+          "amber",
+          "melancholic"
+        ]
+      },
+      {
+        "id": "enfp-q2-b",
+        "text": {
+          "ru": "Ничего. Каждый из них дал мне что-то. Финиш — это иллюзия, которую придумали скучные люди.",
+          "en": "Nothing. Each one gave me something. The finish line is an illusion invented by boring people."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "defiant",
+          "pepper",
+          "nomadic"
+        ]
+      },
+      {
+        "id": "enfp-q2-c",
+        "text": {
+          "ru": "Тихое обещание себе: следующий раз — я доведу до конца. И это обещание — важнее, чем любой проект.",
+          "en": "A quiet promise to myself: next time, I will see it through. And that promise matters more than any project."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "hopeful",
+          "white flowers",
+          "gentle"
+        ]
+      },
+      {
+        "id": "enfp-q2-d",
+        "text": {
+          "ru": "Злость на себя. Настоящую. Я знаю, что могу больше — и именно это бесит.",
+          "en": "Anger at myself. Real anger. I know I'm capable of more — and that's exactly what infuriates me."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "frustrated",
+          "ginger",
+          "burning"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp-q3",
+    "mbtiType": "ENFP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Глубокая ночь. Все спят. А вы чувствуете...",
+      "en": "Deep night. Everyone is asleep. And you feel..."
+    },
+    "answers": [
+      {
+        "id": "enfp-q3-a",
+        "text": {
+          "ru": "Тоску по чему-то, чего никогда не было. По версии жизни, которая была бы более... настоящей.",
+          "en": "A longing for something that never was. For a version of life that would be more... real."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "longing",
+          "oud",
+          "nocturnal"
+        ]
+      },
+      {
+        "id": "enfp-q3-b",
+        "text": {
+          "ru": "Свободу. Ночь — единственное время, когда я не должен быть «заряженным».",
+          "en": "Freedom. Night is the only time I don't have to be 'on.'"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "liberated",
+          "moonflower",
+          "cool"
+        ]
+      },
+      {
+        "id": "enfp-q3-c",
+        "text": {
+          "ru": "Вдохновение. Идеи приходят в темноте — самые честные, самые странные, самые мои.",
+          "en": "Inspiration. Ideas come in the dark — the most honest, the most strange, the most mine."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "creative",
+          "neroli",
+          "electric"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp-q4",
+    "mbtiType": "ENFP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Человек, которого вы любите, говорит: «Иногда мне кажется, что я не знаю, какой ты настоящий». Это...",
+      "en": "Someone you love says: 'Sometimes I feel like I don't know which version of you is real.' This is..."
+    },
+    "answers": [
+      {
+        "id": "enfp-q4-a",
+        "text": {
+          "ru": "Больно, потому что правда. Я и сам не знаю. И ищу — каждый день.",
+          "en": "Painful, because it's true. I don't know either. And I search — every single day."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "searching",
+          "patchouli",
+          "layered"
+        ]
+      },
+      {
+        "id": "enfp-q4-b",
+        "text": {
+          "ru": "Несправедливо. Я — все мои версии сразу. И любить меня — значит любить движение.",
+          "en": "Unfair. I am all of my versions at once. And to love me is to love the motion itself."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "kaleidoscopic",
+          "citrus medley",
+          "bright"
+        ]
+      },
+      {
+        "id": "enfp-q4-c",
+        "text": {
+          "ru": "Знак, что мне нужно остановиться и впустить этого человека в ту комнату, которую я обычно держу закрытой.",
+          "en": "A sign that I need to stop and let this person into the room I usually keep locked."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "opening",
+          "rose",
+          "vulnerable"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp-q5",
+    "mbtiType": "ENFP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Если бы вы были ароматом, когда бы вы были сильнее всего?",
+      "en": "If you were a fragrance, when would you be at your most intense?"
+    },
+    "answers": [
+      {
+        "id": "enfp-q5-a",
+        "text": {
+          "ru": "В первые секунды — яркий, неожиданный, невозможный. Потом — мягче, но вы уже попались.",
+          "en": "In the first seconds — vivid, unexpected, impossible. Then softer, but by then you're already caught."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "explosive opening",
+          "mandarin",
+          "peppery"
+        ]
+      },
+      {
+        "id": "enfp-q5-b",
+        "text": {
+          "ru": "В самом конце — на коже, через шесть часов, когда всё громкое ушло и осталась только правда.",
+          "en": "At the very end — on the skin, six hours later, when everything loud has faded and only truth remains."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "base notes",
+          "musk",
+          "sandalwood",
+          "real"
+        ]
+      },
+      {
+        "id": "enfp-q5-c",
+        "text": {
+          "ru": "В том моменте, когда вы наклоняетесь ближе — в интимном расстоянии, которое я дарю не всем.",
+          "en": "In the moment you lean closer — at that intimate distance I don't offer to everyone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "close",
+          "skin",
+          "ambrette"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj-q1",
+    "mbtiType": "ISTJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Пятница, 18:00. Рабочая неделя позади. Ваш ритуал?",
+      "en": "Friday, 6 PM. The workweek is behind you. What is your ritual?"
+    },
+    "answers": [
+      {
+        "id": "istj-q1-a",
+        "text": {
+          "ru": "Всегда один и тот же. И в этом — не скука, а якорь. Мир хаотичен. Мой вечер — нет.",
+          "en": "Always the same. And in that sameness lies not boredom, but an anchor. The world is chaotic. My evening is not."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "structured",
+          "cedar",
+          "reliable"
+        ]
+      },
+      {
+        "id": "istj-q1-b",
+        "text": {
+          "ru": "Я снимаю невидимую форму. Расстёгиваю пуговицу. В этот момент я — другой человек. Тот, которого никто не знает.",
+          "en": "I shed an invisible uniform. Undo a button. In that moment, I become someone else entirely. Someone no one knows."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "hidden",
+          "tobacco",
+          "private"
+        ]
+      },
+      {
+        "id": "istj-q1-c",
+        "text": {
+          "ru": "Я проверяю, всё ли сделано. Даже в отдыхе — система. Без неё я теряю опору.",
+          "en": "I check whether everything is done. Even in rest, there is a system. Without it, I lose my footing."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "orderly",
+          "lavender",
+          "crisp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj-q2",
+    "mbtiType": "ISTJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вам показывают фотографию места, где вы были в детстве. Что вы чувствуете первым?",
+      "en": "Someone shows you a photograph of a place from your childhood. What do you feel first?"
+    },
+    "answers": [
+      {
+        "id": "istj-q2-a",
+        "text": {
+          "ru": "Запах. Не образ, не звук — именно запах. И он бьёт в солнечное сплетение.",
+          "en": "A smell. Not an image, not a sound — a smell. And it strikes right at the solar plexus."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "nostalgic",
+          "hay",
+          "sun-warm wood"
+        ]
+      },
+      {
+        "id": "istj-q2-b",
+        "text": {
+          "ru": "Тихое осознание: я изменился. И я не знаю — к лучшему ли.",
+          "en": "A quiet realization: I have changed. And I don't know whether for the better."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "reflective",
+          "dry earth",
+          "amber"
+        ]
+      },
+      {
+        "id": "istj-q2-c",
+        "text": {
+          "ru": "Ничего. Я не сентиментален. Но потом, ночью, вспоминаю — и не могу остановиться.",
+          "en": "Nothing. I am not sentimental. But later, at night, the memories come — and I cannot stop them."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "delayed",
+          "birch",
+          "smoldering"
+        ]
+      },
+      {
+        "id": "istj-q2-d",
+        "text": {
+          "ru": "Желание вернуться. Не в место — в ощущение. Когда всё было на своих местах.",
+          "en": "A longing to return. Not to the place — to the feeling. When everything was where it belonged."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "rooted",
+          "orris",
+          "timeless"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj-q3",
+    "mbtiType": "ISTJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "На работе произошёл хаос. Все паникуют. Вы...",
+      "en": "Chaos erupts at work. Everyone is panicking. You..."
+    },
+    "answers": [
+      {
+        "id": "istj-q3-a",
+        "text": {
+          "ru": "Спокоен. Не потому что не чувствую — а потому что паника непродуктивна. Я — точка опоры, пока мир кренится.",
+          "en": "Calm. Not because I feel nothing — but because panic is unproductive. I am the fulcrum while the world tilts."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "solid",
+          "oakmoss",
+          "dependable"
+        ]
+      },
+      {
+        "id": "istj-q3-b",
+        "text": {
+          "ru": "Спокоен снаружи. Внутри — бурю я проживу потом, один, когда никто не смотрит.",
+          "en": "Calm on the outside. The storm within — I will weather it later, alone, when no one is watching."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "contained storm",
+          "dark vetiver",
+          "intense"
+        ]
+      },
+      {
+        "id": "istj-q3-c",
+        "text": {
+          "ru": "Раздражён. Если бы все делали свою работу правильно, хаоса бы не было. Простая мысль. Никому недоступная.",
+          "en": "Irritated. If everyone had done their job properly, there would be no chaos. A simple thought. Apparently beyond everyone's reach."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sharp",
+          "grapefruit",
+          "controlled"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj-q4",
+    "mbtiType": "ISTJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Если бы кто-то заглянул в вашу «тайную комнату» — то пространство вашего разума, которое вы никому не показываете — что бы он увидел?",
+      "en": "If someone were to peer into your 'secret room' — that space in your mind you never show anyone — what would they find?"
+    },
+    "answers": [
+      {
+        "id": "istj-q4-a",
+        "text": {
+          "ru": "Удивительно богатый мир. Истории, которые я никогда не расскажу вслух. Воображение, которого от меня не ждут.",
+          "en": "A surprisingly rich world. Stories I will never tell aloud. An imagination no one expects of me."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "secret",
+          "frankincense",
+          "lush interior"
+        ]
+      },
+      {
+        "id": "istj-q4-b",
+        "text": {
+          "ru": "Тишину. Порядок. Место, где всё наконец на своих местах — включая меня.",
+          "en": "Silence. Order. A place where everything is finally where it belongs — including me."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "minimal",
+          "clean linen",
+          "peace"
+        ]
+      },
+      {
+        "id": "istj-q4-c",
+        "text": {
+          "ru": "Список. Не дел — тревог. Я контролирую внешний мир, потому что внутренний — неуправляем.",
+          "en": "A list. Not of tasks — of anxieties. I control the outer world because the inner one is ungovernable."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "anxious",
+          "bitter herbs",
+          "hidden"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj-q5",
+    "mbtiType": "ISTJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Какой аромат вы бы носили, если бы были уверены, что никто не узнает?",
+      "en": "What fragrance would you wear if you were certain no one would ever know?"
+    },
+    "answers": [
+      {
+        "id": "istj-q5-a",
+        "text": {
+          "ru": "Что-то дерзкое, что совершенно не вяжется с моим образом. Кожа, дым, специи.",
+          "en": "Something bold, something utterly at odds with my image. Leather, smoke, spices."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "rebellious",
+          "leather",
+          "cumin"
+        ]
+      },
+      {
+        "id": "istj-q5-b",
+        "text": {
+          "ru": "Что-то простое и честное. Дерево, чистая кожа, может быть — сено.",
+          "en": "Something simple and honest. Wood, clean skin, perhaps — hay."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "honest",
+          "cedarwood",
+          "hay"
+        ]
+      },
+      {
+        "id": "istj-q5-c",
+        "text": {
+          "ru": "То же, что ношу сейчас. Я не притворяюсь. По крайней мере, в этом.",
+          "en": "The same one I wear now. I do not pretend. At least not in this."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "consistent",
+          "fougere",
+          "classic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj-q1",
+    "mbtiType": "ISFJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы приготовили ужин. Всем понравилось. Но один человек не заметил вашего блюда. Что вы чувствуете?",
+      "en": "You made dinner. Everyone loved it. But one person didn't notice your dish. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "isfj-q1-a",
+        "text": {
+          "ru": "Ничего. Не для похвалы готовила. Но... маленькая заноза — есть. И она останется до утра.",
+          "en": "Nothing. I didn't cook for praise. But... a small splinter is there. And it will stay until morning."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "splinter",
+          "bitter almond",
+          "quiet wound"
+        ]
+      },
+      {
+        "id": "isfj-q1-b",
+        "text": {
+          "ru": "Тепло. Остальные заметили — этого достаточно. Я не веду счёт.",
+          "en": "Warmth. The others noticed — that is enough. I don't keep score."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "warm",
+          "honeyed",
+          "gracious"
+        ]
+      },
+      {
+        "id": "isfj-q1-c",
+        "text": {
+          "ru": "Я запомню. Не со зла — но запомню. Мой внутренний архив никогда ничего не удаляет.",
+          "en": "I will remember. Not out of spite — but I will remember. My inner archive never deletes a thing."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "archival",
+          "dry ink",
+          "precise"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj-q2",
+    "mbtiType": "ISFJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Поздняя осень. Дождь. Окно запотело. Ваше идеальное состояние?",
+      "en": "Late autumn. Rain. The window is fogged over. What is your ideal state?"
+    },
+    "answers": [
+      {
+        "id": "isfj-q2-a",
+        "text": {
+          "ru": "Рядом — кто-то родной. Тишина. Ощущение, что прямо сейчас всё хорошо. Этого достаточно.",
+          "en": "Someone dear beside me. Silence. The feeling that right now, everything is well. That is enough."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "cozy",
+          "amber",
+          "woolen"
+        ]
+      },
+      {
+        "id": "isfj-q2-b",
+        "text": {
+          "ru": "Одиночество — редкое, украденное, сладкое. Мне не часто разрешают быть одной.",
+          "en": "Solitude — rare, stolen, sweet. I am not often allowed to be alone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "stolen",
+          "tea",
+          "solitary"
+        ]
+      },
+      {
+        "id": "isfj-q2-c",
+        "text": {
+          "ru": "Странное беспокойство. А что, если прямо сейчас кому-то нужна моя помощь? Дождь — не оправдание.",
+          "en": "A strange unease. What if right now someone needs my help? Rain is no excuse."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "dutiful",
+          "bergamot",
+          "alert"
+        ]
+      },
+      {
+        "id": "isfj-q2-d",
+        "text": {
+          "ru": "Я рисую пальцем на стекле. Маленький, глупый, секретный ритуал — и в нём больше меня, чем во всём, что я делаю для других.",
+          "en": "I trace a finger on the glass. A small, silly, secret ritual — and there is more of me in it than in everything I do for others."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "secret self",
+          "fig",
+          "childlike"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj-q3",
+    "mbtiType": "ISFJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Кто-то говорит: «Ты слишком добрая. Тебя используют.» Ваша первая реакция?",
+      "en": "Someone says: 'You're too kind. People take advantage of you.' What is your first reaction?"
+    },
+    "answers": [
+      {
+        "id": "isfj-q3-a",
+        "text": {
+          "ru": "Я знаю. Но если я перестану — кем я буду?",
+          "en": "I know. But if I stop — who will I be?"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "identity crisis",
+          "heliotrope",
+          "heavy"
+        ]
+      },
+      {
+        "id": "isfj-q3-b",
+        "text": {
+          "ru": "Неправда. Я вижу больше, чем показываю. Моя доброта — выбор, а не слабость.",
+          "en": "That is not true. I see more than I show. My kindness is a choice, not a weakness."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "deliberate",
+          "magnolia",
+          "steel under silk"
+        ]
+      },
+      {
+        "id": "isfj-q3-c",
+        "text": {
+          "ru": "Секундная вспышка ярости — настоящей, горячей. Я гашу её мгновенно. Но она была.",
+          "en": "A split-second flash of rage — real, searing. I extinguish it instantly. But it was there."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "flash",
+          "black pepper",
+          "suppressed"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj-q4",
+    "mbtiType": "ISFJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Если бы существовал аромат вашей заботы — той, которую вы дарите каждый день — каким бы он был?",
+      "en": "If there were a fragrance of your care — the kind you give away every day — what would it smell like?"
+    },
+    "answers": [
+      {
+        "id": "isfj-q4-a",
+        "text": {
+          "ru": "Хлеб из духовки. Свежее бельё. Запах, который не замечаешь, пока он не исчезнет.",
+          "en": "Bread from the oven. Fresh linens. A scent you never notice until it is gone."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "invisible care",
+          "clean musk",
+          "bread"
+        ]
+      },
+      {
+        "id": "isfj-q4-b",
+        "text": {
+          "ru": "Роза — но не свежая, а засушенная, между страницами книги. Хрупкая и вечная одновременно.",
+          "en": "A rose — but not a fresh one. A dried rose, pressed between the pages of a book. Fragile and eternal at once."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "preserved",
+          "dried rose",
+          "papery"
+        ]
+      },
+      {
+        "id": "isfj-q4-c",
+        "text": {
+          "ru": "Что-то горькое. Потому что забота без взаимности — это горечь, как бы красиво её ни называли.",
+          "en": "Something bitter. Because care without reciprocity is bitterness, no matter how beautifully you name it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "bitter",
+          "wormwood",
+          "unspoken"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj-q5",
+    "mbtiType": "ISFJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Что вас по-настоящему пугает — не снаружи, а внутри?",
+      "en": "What truly frightens you — not from the outside, but from within?"
+    },
+    "answers": [
+      {
+        "id": "isfj-q5-a",
+        "text": {
+          "ru": "Что однажды я скажу всё, что думаю на самом деле. И мир вокруг меня рухнет.",
+          "en": "That one day I will say everything I truly think. And the world around me will collapse."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "eruption",
+          "tuberose",
+          "volcanic"
+        ]
+      },
+      {
+        "id": "isfj-q5-b",
+        "text": {
+          "ru": "Что я устану заботиться — и обнаружу, что без этого я не знаю, зачем существую.",
+          "en": "That I will grow tired of caring — and discover that without it, I no longer know why I exist."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "existential",
+          "iris",
+          "void"
+        ]
+      },
+      {
+        "id": "isfj-q5-c",
+        "text": {
+          "ru": "Ничего. Я боюсь только за тех, кого люблю. За себя бояться — роскошь, которую я не могу позволить.",
+          "en": "Nothing. I fear only for those I love. To fear for myself is a luxury I cannot afford."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "protective",
+          "oakmoss",
+          "guardian"
+        ]
+      },
+      {
+        "id": "isfj-q5-d",
+        "text": {
+          "ru": "Перемены. Не большие — маленькие. Когда что-то сдвигается на миллиметр, и мир уже не тот.",
+          "en": "Change. Not the large kind — the small. When something shifts by a millimeter, and the world is no longer the same."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "fragile",
+          "violet",
+          "trembling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj-q1",
+    "mbtiType": "ESTJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Проект завершён. Результат — выше ожиданий. Команда празднует. А вы...",
+      "en": "The project is complete. Results exceeded expectations. The team celebrates. And you..."
+    },
+    "answers": [
+      {
+        "id": "estj-q1-a",
+        "text": {
+          "ru": "Уже думаю о следующем. Праздновать — значит останавливаться. Я не умею останавливаться.",
+          "en": "Already thinking about the next one. To celebrate is to stand still. I do not know how to stand still."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "relentless",
+          "black coffee",
+          "sharp"
+        ]
+      },
+      {
+        "id": "estj-q1-b",
+        "text": {
+          "ru": "Чувствую гордость — настоящую, детскую, которую прячу за рукопожатиями и «хорошая работа, команда».",
+          "en": "I feel pride — real, childlike pride — that I hide behind handshakes and 'good job, team.'"
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "hidden pride",
+          "warm leather",
+          "gold"
+        ]
+      },
+      {
+        "id": "estj-q1-c",
+        "text": {
+          "ru": "Хочу, чтобы один человек — конкретный — сказал: «Это ты. Ты это сделал.» Остальное — шум.",
+          "en": "I want one person — a specific person — to say: 'This was you. You did this.' Everything else is noise."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "personal",
+          "sandalwood",
+          "intimate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj-q2",
+    "mbtiType": "ESTJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы обнаруживаете, что ваш метод не работает. Данные против вас. Ваша честная первая реакция?",
+      "en": "You discover that your method is not working. The data is against you. What is your honest first reaction?"
+    },
+    "answers": [
+      {
+        "id": "estj-q2-a",
+        "text": {
+          "ru": "Злость — на данные. Глупо, но это правда. Потом — перестройка. Я быстро адаптируюсь, когда признаю факт.",
+          "en": "Anger — at the data. Foolish, but true. Then — recalibration. I adapt quickly once I accept the fact."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "combative then pragmatic",
+          "pepper",
+          "steel"
+        ]
+      },
+      {
+        "id": "estj-q2-b",
+        "text": {
+          "ru": "Удар по самооценке. Если мой метод неверен — значит, я неверен. Это уравнение я не могу разорвать.",
+          "en": "A blow to my self-worth. If my method is wrong — then I am wrong. It is an equation I cannot break apart."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "vulnerable",
+          "bruised",
+          "amber"
+        ]
+      },
+      {
+        "id": "estj-q2-c",
+        "text": {
+          "ru": "Облегчение. Наконец — правда. С ней можно работать. С иллюзией — нет.",
+          "en": "Relief. At last — the truth. You can work with truth. With illusion — you cannot."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "relief",
+          "eucalyptus",
+          "clarity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj-q3",
+    "mbtiType": "ESTJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Выходной. Никаких дел. Как вы себя чувствуете через два часа?",
+      "en": "A day off. Nothing to do. How do you feel after two hours?"
+    },
+    "answers": [
+      {
+        "id": "estj-q3-a",
+        "text": {
+          "ru": "Потерянным. Без задач я не знаю, куда деть руки, мысли, себя.",
+          "en": "Lost. Without tasks, I don't know what to do with my hands, my thoughts, myself."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "unmoored",
+          "petrichor",
+          "empty"
+        ]
+      },
+      {
+        "id": "estj-q3-b",
+        "text": {
+          "ru": "Виноватым. Кто-то где-то работает. Я — нет. Это невыносимо.",
+          "en": "Guilty. Someone somewhere is working. I am not. It is unbearable."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "guilt-driven",
+          "lemon",
+          "restless"
+        ]
+      },
+      {
+        "id": "estj-q3-c",
+        "text": {
+          "ru": "Удивительно — хорошо. Но мне нужен был час, чтобы разрешить себе это. Разрешение — самое сложное.",
+          "en": "Surprisingly — good. But it took me an hour to give myself permission. Permission is the hardest part."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "permission",
+          "warm cotton",
+          "soft"
+        ]
+      },
+      {
+        "id": "estj-q3-d",
+        "text": {
+          "ru": "Я уже делаю что-то «для дома» — чиню, убираю, организую. Это мой отдых. Другого не бывает.",
+          "en": "I am already doing something 'around the house' — fixing, cleaning, organizing. This is my rest. There is no other kind."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "productive",
+          "woody",
+          "domestic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj-q4",
+    "mbtiType": "ESTJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Что вы никогда не скажете вслух?",
+      "en": "What will you never say out loud?"
+    },
+    "answers": [
+      {
+        "id": "estj-q4-a",
+        "text": {
+          "ru": "Мне бывает страшно. Не за дело — за себя. За то, что без результата я — никто.",
+          "en": "I get frightened sometimes. Not for the work — for myself. That without results, I am no one."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "fear",
+          "dark cedar",
+          "existential"
+        ]
+      },
+      {
+        "id": "estj-q4-b",
+        "text": {
+          "ru": "Я скучаю. По людям, по моментам, по вещам, которых больше нет. Но сентиментальность — слабость. Значит — молчу.",
+          "en": "I miss things. People, moments, things that no longer exist. But sentimentality is weakness. So I say nothing."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "nostalgic",
+          "tobacco",
+          "repressed"
+        ]
+      },
+      {
+        "id": "estj-q4-c",
+        "text": {
+          "ru": "Мне нужна помощь. Три слова. Невозможные.",
+          "en": "I need help. Three words. Impossible ones."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "surrender",
+          "benzoin",
+          "whispered"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj-q5",
+    "mbtiType": "ESTJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Если бы ваш аромат был зданием, каким бы оно было?",
+      "en": "If your fragrance were a building, what would it be?"
+    },
+    "answers": [
+      {
+        "id": "estj-q5-a",
+        "text": {
+          "ru": "Крепость. Толстые стены, но внутри — сад, о котором знают единицы.",
+          "en": "A fortress. Thick walls, but inside — a garden that only a handful of souls know about."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "fortress",
+          "stone",
+          "hidden garden"
+        ]
+      },
+      {
+        "id": "estj-q5-b",
+        "text": {
+          "ru": "Маяк. Виден издалека. Работает безотказно. Не для красоты — для пользы.",
+          "en": "A lighthouse. Visible from afar. Unfailingly operational. Not for beauty — for purpose."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "functional",
+          "maritime",
+          "salt"
+        ]
+      },
+      {
+        "id": "estj-q5-c",
+        "text": {
+          "ru": "Старый дом. С деревянной лестницей, которая скрипит в тех местах, которые знаю только я.",
+          "en": "An old house. With a wooden staircase that creaks in places only I know."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "familiar",
+          "aged wood",
+          "beeswax"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj-q1",
+    "mbtiType": "ESFJ",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы организовали встречу — идеальную, до мелочей. Все счастливы. А вы чувствуете...",
+      "en": "You organized a gathering — perfect, down to every detail. Everyone is happy. And you feel..."
+    },
+    "answers": [
+      {
+        "id": "esfj-q1-a",
+        "text": {
+          "ru": "Радость — но чужую. Свою я, кажется, потеряла где-то между списком гостей и сервировкой.",
+          "en": "Joy — but someone else's. My own, I think, got lost somewhere between the guest list and the table setting."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "lost",
+          "rose water",
+          "bittersweet"
+        ]
+      },
+      {
+        "id": "esfj-q1-b",
+        "text": {
+          "ru": "Полноту. Это и есть моя радость — видеть, как всё складывается. Я — дирижёр, и оркестр играет.",
+          "en": "Fullness. This is my joy — watching everything come together. I am the conductor, and the orchestra plays."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "orchestral",
+          "peony",
+          "harmonious"
+        ]
+      },
+      {
+        "id": "esfj-q1-c",
+        "text": {
+          "ru": "Усталость, которую нельзя показать. Потому что если я устану — кто позаботится обо всех?",
+          "en": "An exhaustion I must not show. Because if I grow tired — who will take care of everyone?"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "exhausted",
+          "chamomile",
+          "heavy silk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj-q2",
+    "mbtiType": "ESFJ",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Подруга отменила планы в последний момент — без объяснений. Что вы чувствуете?",
+      "en": "A friend cancels plans at the last moment — without explanation. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "esfj-q2-a",
+        "text": {
+          "ru": "Обиду, которую я тут же превращаю в заботу: «Может, ей плохо? Может, я что-то сделала не так?»",
+          "en": "Hurt, which I immediately transform into concern: 'Maybe she's unwell? Maybe I did something wrong?'"
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "self-blame",
+          "lily",
+          "anxious warmth"
+        ]
+      },
+      {
+        "id": "esfj-q2-b",
+        "text": {
+          "ru": "Злость. Чистую, горячую. Я столько вложила — и получила тишину. Но эту злость я никогда не покажу.",
+          "en": "Anger. Pure, searing. I invested so much — and received silence. But this anger I will never show."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "suppressed rage",
+          "red pepper",
+          "smoldering"
+        ]
+      },
+      {
+        "id": "esfj-q2-c",
+        "text": {
+          "ru": "Облегчение — и стыд за это облегчение. Может, я тоже хотела вечер одна.",
+          "en": "Relief — and shame for that relief. Perhaps I, too, wanted an evening alone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "guilty freedom",
+          "white tea",
+          "airy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj-q3",
+    "mbtiType": "ESFJ",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Старая фотография семейного праздника. Что вы чувствуете?",
+      "en": "An old photograph of a family celebration. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "esfj-q3-a",
+        "text": {
+          "ru": "Тепло. Не от фото — от запахов, которые я помню. Пирог, духи бабушки, ёлка. Время остановилось.",
+          "en": "Warmth. Not from the photo — from the scents I remember. Pie, grandmother's perfume, the Christmas tree. Time stood still."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "memory",
+          "cinnamon",
+          "vanilla",
+          "amber"
+        ]
+      },
+      {
+        "id": "esfj-q3-b",
+        "text": {
+          "ru": "Желание воссоздать это — для своих детей, для друзей. Традиция — это не про прошлое, это про вечность.",
+          "en": "A desire to recreate this — for my children, for my friends. Tradition is not about the past. It is about eternity."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "legacy",
+          "rose",
+          "classic"
+        ]
+      },
+      {
+        "id": "esfj-q3-c",
+        "text": {
+          "ru": "Грусть. Все улыбаются. Но я помню, что было за кадром. Я всегда помню то, что за кадром.",
+          "en": "Sadness. Everyone is smiling. But I remember what was happening behind the frame. I always remember what was behind the frame."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "behind-the-scenes",
+          "iris",
+          "grey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj-q4",
+    "mbtiType": "ESFJ",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Что вас ранит сильнее всего?",
+      "en": "What wounds you most deeply?"
+    },
+    "answers": [
+      {
+        "id": "esfj-q4-a",
+        "text": {
+          "ru": "Когда меня не замечают. Не благодарят — просто не замечают, что я здесь.",
+          "en": "When I go unnoticed. Not unthanked — simply unseen. As if I were not even here."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "invisible",
+          "powdery",
+          "aching"
+        ]
+      },
+      {
+        "id": "esfj-q4-b",
+        "text": {
+          "ru": "Когда говорят: «Ты не обязана этого делать.» Но в этом — весь я. Без этого я — пустая комната.",
+          "en": "When they say: 'You don't have to do this.' But this is all of me. Without it, I am an empty room."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "identity-wound",
+          "hollow",
+          "benzoin"
+        ]
+      },
+      {
+        "id": "esfj-q4-c",
+        "text": {
+          "ru": "Когда кто-то ломает правила, которые держат всё вместе. Не из злости — из небрежности. Это больнее.",
+          "en": "When someone breaks the rules that hold everything together. Not out of malice — out of carelessness. That hurts more."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "broken harmony",
+          "sharp violet",
+          "structured"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj-q5",
+    "mbtiType": "ESFJ",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Какой аромат вы бы хотели носить только для себя — не для других?",
+      "en": "What fragrance would you want to wear only for yourself — not for others?"
+    },
+    "answers": [
+      {
+        "id": "esfj-q5-a",
+        "text": {
+          "ru": "Что-то совершенно не «моё» — тёмное, странное, с характером. Я заслуживаю тайну.",
+          "en": "Something utterly unlike 'me' — dark, strange, full of character. I deserve a secret."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "secret",
+          "oud",
+          "dark berry"
+        ]
+      },
+      {
+        "id": "esfj-q5-b",
+        "text": {
+          "ru": "Что-то из детства — запах, который существует только в моей памяти.",
+          "en": "Something from childhood — a scent that exists only in my memory."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "childhood",
+          "powdery",
+          "talc-soft"
+        ]
+      },
+      {
+        "id": "esfj-q5-c",
+        "text": {
+          "ru": "То, что ношу всегда. Мой аромат для себя и для других — один и тот же. В этом моя целостность.",
+          "en": "The one I always wear. My fragrance for myself and for others is one and the same. In that lies my wholeness."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "authentic",
+          "floral aldehyde",
+          "polished"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp-q1",
+    "mbtiType": "ISTP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Механизм сломан. Все обсуждают. Вы...",
+      "en": "A mechanism is broken. Everyone is discussing it. You..."
+    },
+    "answers": [
+      {
+        "id": "istp-q1-a",
+        "text": {
+          "ru": "Уже разобрал. Руки начали раньше, чем голова закончила думать. Это не нетерпение — это язык, на котором я думаю.",
+          "en": "Already taken it apart. My hands began before my mind finished thinking. It's not impatience — it's the language I think in."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "mechanical",
+          "metal",
+          "clean oil"
+        ]
+      },
+      {
+        "id": "istp-q1-b",
+        "text": {
+          "ru": "Смотрю. Молча. Мне не нужно трогать, чтобы понять. Я вижу, где сбой — глазами, не руками.",
+          "en": "I watch. In silence. I don't need to touch it to understand. I can see where it fails — with my eyes, not my hands."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "observant",
+          "cool glass",
+          "precise"
+        ]
+      },
+      {
+        "id": "istp-q1-c",
+        "text": {
+          "ru": "Мне не интересен механизм. Мне интересно, почему все вокруг паникуют из-за сломанной вещи, когда мир полон сломанных вещей.",
+          "en": "The mechanism doesn't interest me. What interests me is why everyone is panicking over a broken thing when the world is full of broken things."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "philosophical",
+          "smoke",
+          "detached"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp-q2",
+    "mbtiType": "ISTP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Адреналин. Скорость. Момент, когда всё зависит от секунды. Что вы чувствуете?",
+      "en": "Adrenaline. Speed. The moment when everything hinges on a single second. What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "istp-q2-a",
+        "text": {
+          "ru": "Ясность. Абсолютную. Мир замедляется. Я — единственное, что движется с правильной скоростью.",
+          "en": "Clarity. Absolute clarity. The world slows down. I am the only thing moving at the right speed."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "razor",
+          "ozonic",
+          "steel"
+        ]
+      },
+      {
+        "id": "istp-q2-b",
+        "text": {
+          "ru": "Свободу. Это единственный момент, когда я по-настоящему живу — не анализирую жизнь, а проживаю её.",
+          "en": "Freedom. It's the only moment when I'm truly alive — not analyzing life, but living it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "wild",
+          "leather",
+          "wind"
+        ]
+      },
+      {
+        "id": "istp-q2-c",
+        "text": {
+          "ru": "Потом — тишину. Не во время, а после. Когда адреналин уходит и остаётся пустота, которая на самом деле — покой.",
+          "en": "Afterward — silence. Not during, but after. When the adrenaline drains away and what remains is an emptiness that is, in truth, peace."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "post-adrenaline",
+          "cedar",
+          "stillness"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp-q3",
+    "mbtiType": "ISTP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Кто-то плачет рядом с вами. Ваша честная реакция?",
+      "en": "Someone is crying beside you. What is your honest reaction?"
+    },
+    "answers": [
+      {
+        "id": "istp-q3-a",
+        "text": {
+          "ru": "Дискомфорт. Я не знаю, что делать с чужими чувствами. Но не ухожу — и это для меня уже подвиг.",
+          "en": "Discomfort. I don't know what to do with other people's feelings. But I don't leave — and for me, that alone is an act of courage."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "awkward",
+          "dry",
+          "mineral"
+        ]
+      },
+      {
+        "id": "istp-q3-b",
+        "text": {
+          "ru": "Я делаю что-то руками — приношу воду, чиню что-то рядом, создаю пространство. Слова — не мой язык. Действия — да.",
+          "en": "I do something with my hands — bring water, fix something nearby, create space. Words are not my language. Actions are."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "practical care",
+          "eucalyptus",
+          "grounding"
+        ]
+      },
+      {
+        "id": "istp-q3-c",
+        "text": {
+          "ru": "Внутри поднимается что-то, что я не могу назвать. Огромное, без имени. Я давлю это — потому что если отпущу, не знаю, что будет.",
+          "en": "Something rises inside me that I cannot name. Something vast, without a word for it. I push it down — because if I let it go, I don't know what will happen."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "volcanic",
+          "dark amber",
+          "suppressed"
+        ]
+      },
+      {
+        "id": "istp-q3-d",
+        "text": {
+          "ru": "Мне хочется уйти. И я знаю, что это не холодность — это самозащита. Чужая боль пробивает мою броню в тех местах, о которых я забыл.",
+          "en": "I want to leave. And I know it's not coldness — it's self-preservation. Someone else's pain pierces my armor in places I had forgotten existed."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "retreating",
+          "birch",
+          "solitary"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp-q4",
+    "mbtiType": "ISTP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Ваше место силы — где вы восстанавливаетесь?",
+      "en": "Your place of power — where do you restore yourself?"
+    },
+    "answers": [
+      {
+        "id": "istp-q4-a",
+        "text": {
+          "ru": "Гараж. Мастерская. Место, где я и вещи — и больше ничего.",
+          "en": "The garage. The workshop. A place where it's just me and things — and nothing else."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "workshop",
+          "motor oil",
+          "sawdust"
+        ]
+      },
+      {
+        "id": "istp-q4-b",
+        "text": {
+          "ru": "Природа — но не красивая. Дикая. Та, которой нет дела до меня. В этом равнодушии — честность.",
+          "en": "Nature — but not the pretty kind. Wild nature. The kind that doesn't care about me. In that indifference, there is honesty."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "wild terrain",
+          "earth",
+          "pine"
+        ]
+      },
+      {
+        "id": "istp-q4-c",
+        "text": {
+          "ru": "Дорога. Движение. Точка А — точка Б — и между ними я свободен от всех ролей.",
+          "en": "The road. Motion. Point A — point B — and between them, I am free from every role."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "transit",
+          "gasoline",
+          "wind"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp-q5",
+    "mbtiType": "ISTP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Если бы ваш аромат мог говорить, он бы сказал...",
+      "en": "If your scent could speak, it would say..."
+    },
+    "answers": [
+      {
+        "id": "istp-q5-a",
+        "text": {
+          "ru": "Ничего. Он бы молча встал рядом и сделал то, что нужно.",
+          "en": "Nothing. It would silently stand beside you and do what needs to be done."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "silent",
+          "vetiver",
+          "mineral"
+        ]
+      },
+      {
+        "id": "istp-q5-b",
+        "text": {
+          "ru": "«Не подходи ближе, чем я разрешу. Но если разрешу — я настоящий.»",
+          "en": "\"Don't come closer than I allow. But if I allow it — I am real.\""
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "guarded",
+          "suede",
+          "intimate at close range"
+        ]
+      },
+      {
+        "id": "istp-q5-c",
+        "text": {
+          "ru": "«Я проще, чем кажусь. И сложнее, чем ты думаешь.»",
+          "en": "\"I am simpler than I seem. And more complex than you think.\""
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "paradox",
+          "juniper",
+          "layered simplicity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp-q1",
+    "mbtiType": "ISFP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вы стоите перед картиной, которая заставляет вас замереть. Все идут дальше. Вы...",
+      "en": "You stand before a painting that stops you in your tracks. Everyone moves on. You..."
+    },
+    "answers": [
+      {
+        "id": "isfp-q1-a",
+        "text": {
+          "ru": "Остаюсь. Мне не важно, что думают. Этот момент — мой, и он важнее любого расписания.",
+          "en": "I stay. I don't care what they think. This moment is mine, and it matters more than any schedule."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "still",
+          "gallery",
+          "hushed"
+        ]
+      },
+      {
+        "id": "isfp-q1-b",
+        "text": {
+          "ru": "Чувствую, как внутри что-то ломается — красиво, как стекло. Искусство для меня — не удовольствие, а вскрытие.",
+          "en": "I feel something break inside me — beautifully, like glass. Art for me is not pleasure — it is an opening of wounds."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "shattered beauty",
+          "iris",
+          "piercing"
+        ]
+      },
+      {
+        "id": "isfp-q1-c",
+        "text": {
+          "ru": "Запоминаю. Цвет, свет, ощущение. Потом — через неделю, месяц — это вернётся ко мне, и я создам что-то своё.",
+          "en": "I memorize it. The color, the light, the feeling. Then — in a week, a month — it will return to me, and I will create something of my own."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "absorbing",
+          "indigo",
+          "patient"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp-q2",
+    "mbtiType": "ISFP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Кто-то обесценивает то, что для вас свято. Ваш ответ?",
+      "en": "Someone diminishes what is sacred to you. Your response?"
+    },
+    "answers": [
+      {
+        "id": "isfp-q2-a",
+        "text": {
+          "ru": "Молчание. Но внутри — пожар. Тихие люди горят ярче всех.",
+          "en": "Silence. But inside — a wildfire. Quiet people burn brighter than anyone."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "inferno",
+          "oud",
+          "scorching"
+        ]
+      },
+      {
+        "id": "isfp-q2-b",
+        "text": {
+          "ru": "Уход. Не демонстративный — тихий. Я забираю свою энергию и растворяюсь. Это моя форма силы.",
+          "en": "Departure. Not dramatic — quiet. I withdraw my energy and dissolve. This is my form of strength."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "disappearing",
+          "ghost orchid",
+          "ephemeral"
+        ]
+      },
+      {
+        "id": "isfp-q2-c",
+        "text": {
+          "ru": "Слёзы — которые я превращаю в что-то. Песню, жест, цвет. Боль — это материал.",
+          "en": "Tears — which I transform into something. A song, a gesture, a color. Pain is raw material."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "alchemical pain",
+          "black rose",
+          "creative"
+        ]
+      },
+      {
+        "id": "isfp-q2-d",
+        "text": {
+          "ru": "Я нахожу того, кто понимает — и рассказываю. Мне нужен свидетель. Один — достаточно.",
+          "en": "I find someone who understands — and I tell them. I need a witness. One is enough."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "witnessed",
+          "jasmine",
+          "confiding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp-q3",
+    "mbtiType": "ISFP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Природа. Вы одни. Какое ощущение сильнее всего?",
+      "en": "Nature. You are alone. Which feeling is the strongest?"
+    },
+    "answers": [
+      {
+        "id": "isfp-q3-a",
+        "text": {
+          "ru": "Принадлежность. Я — часть этого. Не наблюдатель, а продолжение.",
+          "en": "Belonging. I am part of this. Not an observer, but a continuation."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "earthen",
+          "moss",
+          "belonging"
+        ]
+      },
+      {
+        "id": "isfp-q3-b",
+        "text": {
+          "ru": "Печаль — светлая, чистая. Красота мира делает мне больно, потому что она проходит.",
+          "en": "Sadness — luminous, pure. The beauty of the world hurts me because it passes."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "transient beauty",
+          "cherry blossom",
+          "aching"
+        ]
+      },
+      {
+        "id": "isfp-q3-c",
+        "text": {
+          "ru": "Присутствие. Тело, воздух, свет. Я наконец полностью здесь — не в мыслях, не в будущем, а здесь.",
+          "en": "Presence. Body, air, light. I am finally fully here — not in thoughts, not in the future, but here."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "present",
+          "green",
+          "embodied"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp-q4",
+    "mbtiType": "ISFP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Что вы создаёте, когда никто не смотрит?",
+      "en": "What do you create when no one is watching?"
+    },
+    "answers": [
+      {
+        "id": "isfp-q4-a",
+        "text": {
+          "ru": "Что-то незаконченное — и прекрасное именно в этом. Завершённость — это смерть.",
+          "en": "Something unfinished — and beautiful precisely because of it. Completion is death."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "unfinished",
+          "raw canvas",
+          "feral"
+        ]
+      },
+      {
+        "id": "isfp-q4-b",
+        "text": {
+          "ru": "Что-то для одного конкретного человека — подарок, послание, жест. Моё творчество — это язык любви.",
+          "en": "Something for one specific person — a gift, a message, a gesture. My art is a language of love."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "devoted",
+          "hand-pressed rose",
+          "tender"
+        ]
+      },
+      {
+        "id": "isfp-q4-c",
+        "text": {
+          "ru": "Порядок. Красоту в повседневном. Расставляю чашки, складываю вещи — и в этом больше искусства, чем в любой галерее.",
+          "en": "Order. Beauty in the everyday. I arrange cups, fold things — and in this there is more art than in any gallery."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "curated",
+          "white linen",
+          "aesthetic order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp-q5",
+    "mbtiType": "ISFP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Какой аромат — это вы в самом честном виде?",
+      "en": "What scent is you at your most honest?"
+    },
+    "answers": [
+      {
+        "id": "isfp-q5-a",
+        "text": {
+          "ru": "Что-то живое — цветок, который только что сорван, с землёй на стебле. Не парфюм — природа.",
+          "en": "Something alive — a flower just plucked, with earth still on its stem. Not perfume — nature."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "soil",
+          "stem",
+          "raw flower"
+        ]
+      },
+      {
+        "id": "isfp-q5-b",
+        "text": {
+          "ru": "Что-то тёмное и неожиданно агрессивное. Мир считает меня мягким — и ошибается.",
+          "en": "Something dark and unexpectedly aggressive. The world thinks I am soft — and it is wrong."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "defiant",
+          "black leather",
+          "animalic"
+        ]
+      },
+      {
+        "id": "isfp-q5-c",
+        "text": {
+          "ru": "Что-то, что меняется в течение дня — утром свежее, к вечеру глубже. Как я.",
+          "en": "Something that changes throughout the day — fresher in the morning, deeper by evening. Like me."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "evolving",
+          "green-to-amber",
+          "layered"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp-q1",
+    "mbtiType": "ESTP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Пятница. Ночной город. Вы только что сделали что-то, что завтра будет отличной историей. Но сейчас, в эту секунду...",
+      "en": "Friday. The city at night. You just did something that will make a great story tomorrow. But right now, in this very second..."
+    },
+    "answers": [
+      {
+        "id": "estp-q1-a",
+        "text": {
+          "ru": "Я чувствую. Всё. Огни, воздух, пульс. Я живу — и это единственное, что имеет значение.",
+          "en": "I feel. Everything. The lights, the air, the pulse. I am alive — and that is the only thing that matters."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "alive",
+          "neon",
+          "pulsing"
+        ]
+      },
+      {
+        "id": "estp-q1-b",
+        "text": {
+          "ru": "Я чувствую пустоту за восторгом. Секундную. Как тень за вспышкой. Я ускоряюсь, чтобы от неё убежать.",
+          "en": "I feel an emptiness behind the thrill. Just for a second. Like a shadow behind a flash. I speed up to outrun it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "hollow flash",
+          "gunpowder",
+          "fleeting"
+        ]
+      },
+      {
+        "id": "estp-q1-c",
+        "text": {
+          "ru": "Я хочу, чтобы кто-то конкретный был рядом. Не толпа — один человек. Это желание я обычно глушу третьим коктейлем.",
+          "en": "I want one specific person to be here. Not the crowd — one person. It's a longing I usually drown with the third cocktail."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "lonely in crowd",
+          "whiskey",
+          "warm skin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp-q2",
+    "mbtiType": "ESTP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Вы чувствуете, что что-то идёт не так — не факты, не данные, а просто ощущение. Интуиция. Что вы с ней делаете?",
+      "en": "You sense something is wrong — not facts, not data, just a feeling. Intuition. What do you do with it?"
+    },
+    "answers": [
+      {
+        "id": "estp-q2-a",
+        "text": {
+          "ru": "Игнорирую. Ощущения — не аргумент. Мне нужны факты.",
+          "en": "I ignore it. Feelings are not evidence. I need facts."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "dismissive",
+          "clean",
+          "clinical"
+        ]
+      },
+      {
+        "id": "estp-q2-b",
+        "text": {
+          "ru": "Прислушиваюсь — тайком, стыдясь. Мой самый точный компас — тот, которому я меньше всего доверяю.",
+          "en": "I listen — secretly, almost ashamed. My most accurate compass is the one I trust the least."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "reluctant depth",
+          "dark water",
+          "intuitive"
+        ]
+      },
+      {
+        "id": "estp-q2-c",
+        "text": {
+          "ru": "Действую. Если внутри тревога — значит, пора менять ситуацию. Не анализировать — менять.",
+          "en": "I act. If there's unease inside — it's time to change the situation. Not analyze it — change it."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "action",
+          "citrus burst",
+          "decisive"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp-q3",
+    "mbtiType": "ESTP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Кто-то говорит: «Ты боишься остановиться». Что вы чувствуете?",
+      "en": "Someone says: \"You're afraid to stop.\" What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "estp-q3-a",
+        "text": {
+          "ru": "Раздражение. Остановка — это для тех, кому нечем заняться. У меня — есть.",
+          "en": "Irritation. Stopping is for those with nothing to do. I have plenty."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "defiant",
+          "pepper",
+          "motor"
+        ]
+      },
+      {
+        "id": "estp-q3-b",
+        "text": {
+          "ru": "Узнавание. Они правы. И это — одна из немногих вещей, которые по-настоящему пугают.",
+          "en": "Recognition. They're right. And that is one of the few things that genuinely frightens me."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "confronted",
+          "bitter coffee",
+          "still"
+        ]
+      },
+      {
+        "id": "estp-q3-c",
+        "text": {
+          "ru": "Желание доказать обратное — и в ту же ночь я сижу один, в тишине, и пытаюсь понять, кто я без движения.",
+          "en": "The urge to prove them wrong — and that very night I sit alone, in silence, trying to understand who I am without motion."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "experiment",
+          "bare room",
+          "quiet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp-q4",
+    "mbtiType": "ESTP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Момент, когда вы чувствуете себя по-настоящему собой?",
+      "en": "The moment when you feel truly yourself?"
+    },
+    "answers": [
+      {
+        "id": "estp-q4-a",
+        "text": {
+          "ru": "Когда мои руки делают — а голова молчит. Спорт, ремонт, танец, секс. Тело знает лучше.",
+          "en": "When my hands are working and my mind is quiet. Sports, repairs, dance, sex. The body knows better."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "physical",
+          "sweat",
+          "cedar",
+          "musk"
+        ]
+      },
+      {
+        "id": "estp-q4-b",
+        "text": {
+          "ru": "Когда я рассказываю историю — и все смеются, и мне хорошо, и это не фальшь.",
+          "en": "When I'm telling a story — and everyone laughs, and I feel good, and none of it is fake."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "performer",
+          "spiced rum",
+          "warm"
+        ]
+      },
+      {
+        "id": "estp-q4-c",
+        "text": {
+          "ru": "Когда я один — и не бегу. Это бывает редко. Но в эти минуты я вижу себя яснее, чем когда-либо.",
+          "en": "When I am alone — and not running. It happens rarely. But in those minutes I see myself more clearly than ever."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "rare stillness",
+          "amber",
+          "clear"
+        ]
+      },
+      {
+        "id": "estp-q4-d",
+        "text": {
+          "ru": "Когда я рискую — и выигрываю. Адреналин — это не зависимость. Это мой способ быть честным.",
+          "en": "When I take a risk — and win. Adrenaline is not an addiction. It is my way of being honest."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "gambler",
+          "cognac",
+          "edge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp-q5",
+    "mbtiType": "ESTP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Аромат, который подходит вам прямо сейчас?",
+      "en": "The scent that suits you right now?"
+    },
+    "answers": [
+      {
+        "id": "estp-q5-a",
+        "text": {
+          "ru": "Что-то, что бьёт сразу — громкое, дерзкое, без извинений.",
+          "en": "Something that hits immediately — loud, audacious, unapologetic."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "impact",
+          "ginger",
+          "leather",
+          "bold"
+        ]
+      },
+      {
+        "id": "estp-q5-b",
+        "text": {
+          "ru": "Что-то, что удивляет: кажется простым, но на коже раскрывается во что-то сложное и тихое.",
+          "en": "Something that surprises: it seems simple, but on the skin it unfolds into something complex and quiet."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "deceptive",
+          "tobacco",
+          "honeyed depth"
+        ]
+      },
+      {
+        "id": "estp-q5-c",
+        "text": {
+          "ru": "Что-то от кожи — чистое, минимальное, моё. Без заявлений.",
+          "en": "Something close to skin — clean, minimal, mine. Without declarations."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "skin scent",
+          "salt",
+          "warmth"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp-q1",
+    "mbtiType": "ESFP",
+    "questionNumber": 1,
+    "text": {
+      "ru": "Вечеринка в разгаре. Вы — в центре. Все смотрят. Что происходит внутри?",
+      "en": "The party is in full swing. You are at the center. All eyes on you. What is happening inside?"
+    },
+    "answers": [
+      {
+        "id": "esfp-q1-a",
+        "text": {
+          "ru": "Счастье. Настоящее, без подтекста. Я создан для этого — и в этом нет ничего поверхностного.",
+          "en": "Happiness. Real, without subtext. I was made for this — and there is nothing shallow about it."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "joyful",
+          "tropical",
+          "bright"
+        ]
+      },
+      {
+        "id": "esfp-q1-b",
+        "text": {
+          "ru": "Одиночество. Парадоксальное, невозможное — в комнате, полной людей. Они видят свет, но не видят тень за ним.",
+          "en": "Loneliness. Paradoxical, impossible — in a room full of people. They see the light but not the shadow behind it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "paradox",
+          "tuberose",
+          "lonely heat"
+        ]
+      },
+      {
+        "id": "esfp-q1-c",
+        "text": {
+          "ru": "Восторг — а за ним тихий голос: «А если завтра всё это закончится? Если я перестану быть интересным?»",
+          "en": "Elation — and behind it, a quiet voice: \"What if tomorrow all of this ends? What if I stop being interesting?\""
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "fear of fading",
+          "dying embers",
+          "amber"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp-q2",
+    "mbtiType": "ESFP",
+    "questionNumber": 2,
+    "text": {
+      "ru": "Красивый закат. Вы с друзьями. Все фотографируют. А вы...",
+      "en": "A beautiful sunset. You are with friends. Everyone is taking photos. And you..."
+    },
+    "answers": [
+      {
+        "id": "esfp-q2-a",
+        "text": {
+          "ru": "Смотрю. Просто смотрю. Телефон в кармане. Этот момент — только мой.",
+          "en": "I watch. Just watch. Phone in my pocket. This moment is mine alone."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "private beauty",
+          "golden",
+          "still"
+        ]
+      },
+      {
+        "id": "esfp-q2-b",
+        "text": {
+          "ru": "Чувствую подъём — и сразу делюсь. «Смотрите! Смотрите!» Красота существует, чтобы её разделить.",
+          "en": "I feel a surge — and immediately share it. \"Look! Look!\" Beauty exists to be shared."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "shared joy",
+          "mandarin",
+          "effervescent"
+        ]
+      },
+      {
+        "id": "esfp-q2-c",
+        "text": {
+          "ru": "Чувствую печаль. Закат — это конец дня. Я не люблю концы. Я не умею прощаться.",
+          "en": "I feel sadness. A sunset is the end of a day. I don't like endings. I don't know how to say goodbye."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "goodbye",
+          "fading rose",
+          "bittersweet"
+        ]
+      },
+      {
+        "id": "esfp-q2-d",
+        "text": {
+          "ru": "Мне хочется плакать — и я не знаю, от красоты или от того, как остро я это чувствую.",
+          "en": "I want to cry — and I don't know if it's from the beauty or from how sharply I feel it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "overwhelmed",
+          "jasmine",
+          "raw emotion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp-q3",
+    "mbtiType": "ESFP",
+    "questionNumber": 3,
+    "text": {
+      "ru": "Кто-то говорит: «Ты всегда весёлый. С тобой легко.» Что вы чувствуете?",
+      "en": "Someone says: \"You're always cheerful. You're easy to be around.\" What do you feel?"
+    },
+    "answers": [
+      {
+        "id": "esfp-q3-a",
+        "text": {
+          "ru": "Гордость. Дарить лёгкость — это дар. Не притворство — талант.",
+          "en": "Pride. To give lightness is a gift. Not pretense — a talent."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "generous",
+          "peach",
+          "sunlit"
+        ]
+      },
+      {
+        "id": "esfp-q3-b",
+        "text": {
+          "ru": "Грусть. Потому что «легко» — это синоним «неглубоко». А я — глубже, чем кто-либо подозревает.",
+          "en": "Sadness. Because \"easy\" is a synonym for \"shallow.\" And I am deeper than anyone suspects."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "misunderstood",
+          "dark plum",
+          "complex"
+        ]
+      },
+      {
+        "id": "esfp-q3-c",
+        "text": {
+          "ru": "Усталость. Быть лёгким для всех — тяжёлая работа. Но кому это скажешь?",
+          "en": "Exhaustion. Being light for everyone is heavy work. But who can you tell?"
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "weary",
+          "chamomile",
+          "heavy petals"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp-q4",
+    "mbtiType": "ESFP",
+    "questionNumber": 4,
+    "text": {
+      "ru": "Ваше тайное место — куда вы идёте, когда мир становится слишком?",
+      "en": "Your secret place — where do you go when the world becomes too much?"
+    },
+    "answers": [
+      {
+        "id": "esfp-q4-a",
+        "text": {
+          "ru": "Ванна. Музыка. Свеча. Не для красоты — для выживания. Тело — мой храм, и ему нужен ремонт.",
+          "en": "A bath. Music. A candle. Not for beauty — for survival. The body is my temple, and it needs repair."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "ritual",
+          "bath oil",
+          "warm water"
+        ]
+      },
+      {
+        "id": "esfp-q4-b",
+        "text": {
+          "ru": "Я не ухожу — я погружаюсь глубже. Больше людей, больше шума. Я заглушаю боль яркостью.",
+          "en": "I don't retreat — I plunge deeper. More people, more noise. I drown out the pain with brightness."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "louder",
+          "neon",
+          "overwhelming"
+        ]
+      },
+      {
+        "id": "esfp-q4-c",
+        "text": {
+          "ru": "Место, которого не существует. Я представляю его — тихое, мягкое, без необходимости быть «включённым». Однажды я его найду.",
+          "en": "A place that doesn't exist. I imagine it — quiet, soft, with no need to be \"on.\" Someday I will find it."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "imagined refuge",
+          "cotton",
+          "distant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp-q5",
+    "mbtiType": "ESFP",
+    "questionNumber": 5,
+    "text": {
+      "ru": "Аромат, который вы оставляете в комнате после ухода — каким бы вы хотели, чтобы он был?",
+      "en": "The scent you leave behind in a room after you go — what would you want it to be?"
+    },
+    "answers": [
+      {
+        "id": "esfp-q5-a",
+        "text": {
+          "ru": "Таким, что все оборачиваются и спрашивают: «Кто здесь был?» Незабываемым.",
+          "en": "The kind that makes everyone turn and ask: \"Who was here?\" Unforgettable."
+        },
+        "aspect": "armor",
+        "moodTags": [
+          "sillage",
+          "fruity-floral",
+          "unforgettable"
+        ]
+      },
+      {
+        "id": "esfp-q5-b",
+        "text": {
+          "ru": "Таким, что один конкретный человек улыбнётся — потому что узнает. Это мой аромат, и он для тебя.",
+          "en": "The kind that makes one specific person smile — because they recognize it. This is my scent, and it is for you."
+        },
+        "aspect": "sanctuary",
+        "moodTags": [
+          "signature",
+          "warm vanilla",
+          "personal"
+        ]
+      },
+      {
+        "id": "esfp-q5-c",
+        "text": {
+          "ru": "Таким, который удивит. Не тем, что ожидали — не лёгким, не ярким. Чем-то тёмным. Чем-то настоящим.",
+          "en": "The kind that surprises. Not what they expected — not light, not bright. Something dark. Something real."
+        },
+        "aspect": "shadow",
+        "moodTags": [
+          "surprise depth",
+          "dark honey",
+          "animalic"
+        ]
+      }
+    ]
+  }
+]

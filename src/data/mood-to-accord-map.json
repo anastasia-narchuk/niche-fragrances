@@ -1,0 +1,1178 @@
+{
+  "absence": {
+    "accords": { "powdery": 0.6, "musk": 0.5, "aldehyde": 0.4, "floral": 0.3 },
+    "notes": { "musk": 0.7, "iris": 0.5, "violet": 0.4, "ambergris": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "aching": {
+    "accords": { "balsamic": 0.6, "resinous": 0.5, "oriental": 0.4, "floral": 0.4 },
+    "notes": { "myrrh": 0.6, "rose": 0.5, "labdanum": 0.4, "benzoin": 0.4 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "airy": {
+    "accords": { "fresh": 0.8, "ozonic": 0.6, "aldehyde": 0.5, "floral": 0.3 },
+    "notes": { "neroli": 0.5, "bergamot": 0.4, "lily": 0.4, "musk": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "alchemical": {
+    "accords": { "incense": 0.7, "resinous": 0.6, "oriental": 0.5, "spicy": 0.4 },
+    "notes": { "frankincense": 0.7, "saffron": 0.5, "myrrh": 0.5, "amber": 0.4 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 6, "max": 9 }
+  },
+  "aldehydic": {
+    "accords": { "aldehyde": 0.9, "floral": 0.4, "powdery": 0.3, "fresh": 0.3 },
+    "notes": { "iris": 0.5, "rose": 0.4, "neroli": 0.3, "musk": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "alive": {
+    "accords": { "fresh": 0.7, "citrus": 0.6, "green": 0.5, "aromatic": 0.4 },
+    "notes": { "bergamot": 0.6, "grapefruit": 0.5, "galbanum": 0.4, "mint": 0.3 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "amber": {
+    "accords": { "amber": 0.95, "oriental": 0.5, "resinous": 0.4, "balsamic": 0.3 },
+    "notes": { "amber": 0.95, "labdanum": 0.6, "benzoin": 0.5, "vanilla": 0.4 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 7, "max": 10 }
+  },
+  "ambergris": {
+    "accords": { "animalic": 0.7, "musk": 0.6, "amber": 0.5, "marine": 0.3 },
+    "notes": { "ambergris": 0.95, "musk": 0.5, "amber": 0.4 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "ambrette": {
+    "accords": { "musk": 0.7, "floral": 0.4, "fresh": 0.3 },
+    "notes": { "musk": 0.8, "ambergris": 0.4, "rose": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "animalic": {
+    "accords": { "animalic": 0.95, "leather": 0.5, "musk": 0.5, "oud": 0.3 },
+    "notes": { "ambergris": 0.6, "musk": 0.6, "leather": 0.5, "oud": 0.4 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 6, "max": 9 }
+  },
+  "anxious": {
+    "accords": { "aromatic": 0.5, "fresh": 0.4, "metallic": 0.4, "ozonic": 0.3 },
+    "notes": { "lavender": 0.4, "bergamot": 0.3, "pepper": 0.4, "galbanum": 0.3 },
+    "energy": { "min": 6, "max": 9 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "aquatic": {
+    "accords": { "aquatic": 0.95, "marine": 0.7, "fresh": 0.5, "ozonic": 0.4 },
+    "notes": { "ambergris": 0.4, "bergamot": 0.3, "musk": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "aromatic": {
+    "accords": { "aromatic": 0.95, "fougere": 0.5, "green": 0.4, "fresh": 0.3 },
+    "notes": { "lavender": 0.7, "basil": 0.5, "thyme": 0.4, "eucalyptus": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "austere": {
+    "accords": { "woody": 0.6, "aromatic": 0.4, "fresh": 0.3, "metallic": 0.3 },
+    "notes": { "vetiver": 0.6, "cedar": 0.5, "iris": 0.4, "galbanum": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "balsamic": {
+    "accords": { "balsamic": 0.95, "resinous": 0.6, "oriental": 0.4, "amber": 0.4 },
+    "notes": { "benzoin": 0.8, "tonka": 0.6, "vanilla": 0.5, "labdanum": 0.4 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "bare": {
+    "accords": { "musk": 0.6, "fresh": 0.4, "powdery": 0.3 },
+    "notes": { "musk": 0.7, "iris": 0.4, "cedar": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "beeswax": {
+    "accords": { "gourmand": 0.5, "balsamic": 0.5, "amber": 0.4 },
+    "notes": { "honey": 0.8, "tonka": 0.4, "vanilla": 0.3, "amber": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "benzoin": {
+    "accords": { "balsamic": 0.7, "resinous": 0.6, "oriental": 0.4 },
+    "notes": { "benzoin": 0.95, "tonka": 0.5, "vanilla": 0.4 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "bergamot": {
+    "accords": { "citrus": 0.8, "fresh": 0.5, "aromatic": 0.3 },
+    "notes": { "bergamot": 0.95, "lemon": 0.3, "neroli": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "birch": {
+    "accords": { "leather": 0.6, "woody": 0.6, "smoky": 0.4 },
+    "notes": { "birch": 0.95, "leather": 0.5, "cedar": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "bitter": {
+    "accords": { "aromatic": 0.5, "green": 0.5, "woody": 0.4, "chypre": 0.3 },
+    "notes": { "grapefruit": 0.5, "wormwood": 0.5, "galbanum": 0.4, "oakmoss": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "black coffee": {
+    "accords": { "gourmand": 0.6, "smoky": 0.5, "aromatic": 0.4 },
+    "notes": { "coffee": 0.95, "tobacco": 0.3, "vanilla": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "black leather": {
+    "accords": { "leather": 0.9, "smoky": 0.5, "animalic": 0.4, "woody": 0.3 },
+    "notes": { "leather": 0.95, "birch": 0.5, "suede": 0.3, "oud": 0.3 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "black pepper": {
+    "accords": { "spicy": 0.8, "aromatic": 0.4, "woody": 0.3 },
+    "notes": { "pepper": 0.95, "ginger": 0.3, "cardamom": 0.2 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "black rose": {
+    "accords": { "floral": 0.7, "oud": 0.5, "smoky": 0.4, "resinous": 0.3 },
+    "notes": { "rose": 0.8, "oud": 0.5, "patchouli": 0.4, "incense": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "blue": {
+    "accords": { "aquatic": 0.6, "fresh": 0.5, "ozonic": 0.5, "aromatic": 0.3 },
+    "notes": { "lavender": 0.4, "bergamot": 0.4, "ambergris": 0.3, "iris": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "blue lotus": {
+    "accords": { "floral": 0.7, "aquatic": 0.5, "fresh": 0.4, "musk": 0.3 },
+    "notes": { "lily": 0.6, "iris": 0.5, "musk": 0.4, "neroli": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "bold": {
+    "accords": { "spicy": 0.6, "leather": 0.5, "oud": 0.5, "woody": 0.4 },
+    "notes": { "pepper": 0.5, "oud": 0.5, "leather": 0.4, "saffron": 0.4 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "bright": {
+    "accords": { "citrus": 0.7, "fresh": 0.6, "floral": 0.3, "green": 0.3 },
+    "notes": { "bergamot": 0.6, "lemon": 0.5, "grapefruit": 0.5, "neroli": 0.3 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "burning": {
+    "accords": { "smoky": 0.8, "incense": 0.6, "spicy": 0.5, "resinous": 0.4 },
+    "notes": { "frankincense": 0.5, "pepper": 0.5, "cinnamon": 0.4, "oud": 0.4 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 8, "max": 10 }
+  },
+  "cardamom": {
+    "accords": { "spicy": 0.7, "aromatic": 0.5, "oriental": 0.3 },
+    "notes": { "cardamom": 0.95, "ginger": 0.3, "bergamot": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "carnal": {
+    "accords": { "animalic": 0.7, "musk": 0.6, "leather": 0.4, "oriental": 0.4 },
+    "notes": { "musk": 0.7, "ambergris": 0.5, "leather": 0.4, "cumin": 0.3 },
+    "energy": { "min": 6, "max": 9 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "cedar": {
+    "accords": { "woody": 0.9, "fresh": 0.3 },
+    "notes": { "cedar": 0.95, "sandalwood": 0.3, "vetiver": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "cedarwood": {
+    "accords": { "woody": 0.9, "fresh": 0.3 },
+    "notes": { "cedar": 0.95, "sandalwood": 0.3, "vetiver": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "cerebral": {
+    "accords": { "aromatic": 0.5, "green": 0.4, "woody": 0.4, "aldehyde": 0.3 },
+    "notes": { "iris": 0.5, "vetiver": 0.4, "galbanum": 0.4, "basil": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "chamomile": {
+    "accords": { "aromatic": 0.6, "floral": 0.5, "green": 0.4 },
+    "notes": { "chamomile": 0.95, "lavender": 0.3, "honey": 0.2 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "cherry blossom": {
+    "accords": { "floral": 0.8, "fresh": 0.5, "fruity": 0.3 },
+    "notes": { "cherry blossom": 0.95, "peony": 0.4, "rose": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "cinnamon": {
+    "accords": { "spicy": 0.8, "oriental": 0.5, "gourmand": 0.3 },
+    "notes": { "cinnamon": 0.95, "clove": 0.3, "cardamom": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "citrus": {
+    "accords": { "citrus": 0.95, "fresh": 0.5, "aromatic": 0.3 },
+    "notes": { "bergamot": 0.6, "lemon": 0.6, "grapefruit": 0.5, "mandarin": 0.4 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "clarity": {
+    "accords": { "fresh": 0.7, "citrus": 0.5, "aromatic": 0.4, "green": 0.3 },
+    "notes": { "bergamot": 0.5, "eucalyptus": 0.4, "mint": 0.4, "grapefruit": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "clean": {
+    "accords": { "fresh": 0.8, "musk": 0.5, "aldehyde": 0.4, "ozonic": 0.3 },
+    "notes": { "musk": 0.6, "bergamot": 0.4, "iris": 0.3, "neroli": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "clean musk": {
+    "accords": { "musk": 0.9, "fresh": 0.5, "powdery": 0.3 },
+    "notes": { "musk": 0.95, "iris": 0.3, "cedar": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "coffee": {
+    "accords": { "gourmand": 0.7, "aromatic": 0.5, "smoky": 0.3 },
+    "notes": { "coffee": 0.95, "vanilla": 0.3, "tobacco": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "commanding": {
+    "accords": { "oud": 0.6, "leather": 0.5, "woody": 0.5, "spicy": 0.4 },
+    "notes": { "oud": 0.6, "leather": 0.5, "cedar": 0.4, "pepper": 0.3 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "complex": {
+    "accords": { "oriental": 0.5, "chypre": 0.5, "woody": 0.4, "floral": 0.3 },
+    "notes": { "patchouli": 0.4, "oakmoss": 0.4, "rose": 0.3, "amber": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 4, "max": 7 }
+  },
+  "contemplative": {
+    "accords": { "incense": 0.6, "woody": 0.5, "balsamic": 0.4, "amber": 0.3 },
+    "notes": { "frankincense": 0.6, "sandalwood": 0.5, "myrrh": 0.4, "vetiver": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "cool": {
+    "accords": { "fresh": 0.7, "aromatic": 0.5, "aquatic": 0.4, "ozonic": 0.3 },
+    "notes": { "mint": 0.5, "eucalyptus": 0.4, "bergamot": 0.4, "lavender": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 1, "max": 3 }
+  },
+  "cozy": {
+    "accords": { "amber": 0.6, "gourmand": 0.5, "musk": 0.5, "balsamic": 0.4 },
+    "notes": { "vanilla": 0.6, "tonka": 0.5, "amber": 0.4, "sandalwood": 0.4 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "crisp": {
+    "accords": { "fresh": 0.7, "citrus": 0.6, "green": 0.4, "aromatic": 0.3 },
+    "notes": { "bergamot": 0.5, "grapefruit": 0.5, "galbanum": 0.4, "mint": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "cumin": {
+    "accords": { "spicy": 0.7, "animalic": 0.4, "aromatic": 0.3 },
+    "notes": { "cumin": 0.95, "pepper": 0.3, "saffron": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "dark": {
+    "accords": { "oud": 0.6, "smoky": 0.5, "leather": 0.5, "incense": 0.4 },
+    "notes": { "oud": 0.5, "patchouli": 0.5, "leather": 0.4, "myrrh": 0.4 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "dark amber": {
+    "accords": { "amber": 0.8, "resinous": 0.5, "oriental": 0.5, "smoky": 0.3 },
+    "notes": { "amber": 0.8, "labdanum": 0.6, "benzoin": 0.4, "oud": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 7, "max": 10 }
+  },
+  "dark vetiver": {
+    "accords": { "woody": 0.7, "earthy": 0.6, "smoky": 0.4 },
+    "notes": { "vetiver": 0.9, "patchouli": 0.4, "oud": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "deep": {
+    "accords": { "oriental": 0.6, "resinous": 0.5, "amber": 0.5, "woody": 0.4 },
+    "notes": { "amber": 0.5, "oud": 0.4, "sandalwood": 0.4, "patchouli": 0.4 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 6, "max": 9 }
+  },
+  "defiant": {
+    "accords": { "leather": 0.6, "spicy": 0.5, "smoky": 0.5, "oud": 0.4 },
+    "notes": { "leather": 0.5, "pepper": 0.5, "birch": 0.4, "oud": 0.4 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "delicate": {
+    "accords": { "floral": 0.7, "powdery": 0.5, "musk": 0.4, "fresh": 0.3 },
+    "notes": { "lily": 0.5, "iris": 0.5, "peony": 0.4, "musk": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "dense": {
+    "accords": { "oriental": 0.6, "resinous": 0.6, "balsamic": 0.5, "amber": 0.5 },
+    "notes": { "benzoin": 0.5, "labdanum": 0.5, "amber": 0.5, "tonka": 0.4 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "dreamy": {
+    "accords": { "floral": 0.6, "powdery": 0.5, "musk": 0.5, "oriental": 0.3 },
+    "notes": { "iris": 0.5, "heliotrope": 0.5, "vanilla": 0.4, "tonka": 0.4 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "dried rose": {
+    "accords": { "floral": 0.7, "powdery": 0.4, "woody": 0.3, "spicy": 0.2 },
+    "notes": { "rose": 0.9, "patchouli": 0.3, "sandalwood": 0.3, "pepper": 0.2 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "dry": {
+    "accords": { "woody": 0.6, "aromatic": 0.4, "earthy": 0.4, "green": 0.3 },
+    "notes": { "vetiver": 0.5, "cedar": 0.5, "cypress": 0.3, "galbanum": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "dusty": {
+    "accords": { "powdery": 0.6, "earthy": 0.5, "woody": 0.4, "musk": 0.3 },
+    "notes": { "iris": 0.5, "vetiver": 0.4, "sandalwood": 0.3, "musk": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "earth": {
+    "accords": { "earthy": 0.9, "woody": 0.5, "green": 0.3, "aromatic": 0.2 },
+    "notes": { "vetiver": 0.7, "patchouli": 0.5, "oakmoss": 0.4, "moss": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "effervescent": {
+    "accords": { "citrus": 0.7, "fresh": 0.6, "aldehyde": 0.5, "fruity": 0.3 },
+    "notes": { "grapefruit": 0.5, "bergamot": 0.5, "lemon": 0.4, "neroli": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "electric": {
+    "accords": { "ozonic": 0.6, "metallic": 0.6, "fresh": 0.4, "spicy": 0.3 },
+    "notes": { "ginger": 0.4, "pepper": 0.4, "bergamot": 0.3, "galbanum": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "enigmatic": {
+    "accords": { "oriental": 0.6, "incense": 0.5, "oud": 0.4, "amber": 0.4 },
+    "notes": { "frankincense": 0.5, "oud": 0.4, "amber": 0.4, "saffron": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "enveloping": {
+    "accords": { "amber": 0.6, "oriental": 0.5, "musk": 0.5, "balsamic": 0.4 },
+    "notes": { "amber": 0.5, "vanilla": 0.5, "sandalwood": 0.4, "tonka": 0.4 },
+    "energy": { "min": 2, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "ephemeral": {
+    "accords": { "fresh": 0.5, "floral": 0.5, "aldehyde": 0.4, "musk": 0.3 },
+    "notes": { "neroli": 0.4, "lily": 0.4, "musk": 0.3, "bergamot": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "ethereal": {
+    "accords": { "floral": 0.5, "aldehyde": 0.5, "powdery": 0.4, "musk": 0.4 },
+    "notes": { "iris": 0.6, "lily": 0.4, "musk": 0.4, "ambergris": 0.3 },
+    "energy": { "min": 2, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "eucalyptus": {
+    "accords": { "aromatic": 0.7, "fresh": 0.6, "green": 0.4 },
+    "notes": { "eucalyptus": 0.95, "mint": 0.3, "pine": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "fading rose": {
+    "accords": { "floral": 0.7, "powdery": 0.4, "musk": 0.3, "woody": 0.2 },
+    "notes": { "rose": 0.8, "musk": 0.4, "sandalwood": 0.3, "iris": 0.2 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "fear": {
+    "accords": { "metallic": 0.5, "ozonic": 0.5, "aromatic": 0.3, "smoky": 0.3 },
+    "notes": { "galbanum": 0.5, "pepper": 0.4, "vetiver": 0.3, "birch": 0.3 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "feral": {
+    "accords": { "animalic": 0.8, "leather": 0.5, "musk": 0.5, "oud": 0.4 },
+    "notes": { "musk": 0.6, "leather": 0.5, "cumin": 0.4, "oud": 0.4 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "fig": {
+    "accords": { "green": 0.6, "fruity": 0.6, "woody": 0.3 },
+    "notes": { "fig": 0.95, "galbanum": 0.3, "cedar": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "fig leaf": {
+    "accords": { "green": 0.8, "fresh": 0.4, "aromatic": 0.3 },
+    "notes": { "fig": 0.7, "galbanum": 0.5, "basil": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "fleeting": {
+    "accords": { "citrus": 0.5, "fresh": 0.5, "floral": 0.3, "aldehyde": 0.3 },
+    "notes": { "bergamot": 0.4, "neroli": 0.4, "lemon": 0.3, "lily": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "fog": {
+    "accords": { "aquatic": 0.5, "ozonic": 0.5, "musk": 0.4, "earthy": 0.3 },
+    "notes": { "ambergris": 0.4, "musk": 0.4, "iris": 0.3, "moss": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "fougere": {
+    "accords": { "fougere": 0.95, "aromatic": 0.6, "woody": 0.4, "green": 0.3 },
+    "notes": { "lavender": 0.7, "oakmoss": 0.6, "tonka": 0.4, "geranium": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "fragile": {
+    "accords": { "floral": 0.6, "powdery": 0.5, "musk": 0.4, "aldehyde": 0.3 },
+    "notes": { "lily": 0.5, "iris": 0.5, "musk": 0.4, "violet": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "frankincense": {
+    "accords": { "incense": 0.8, "resinous": 0.6, "balsamic": 0.4 },
+    "notes": { "frankincense": 0.95, "myrrh": 0.3, "labdanum": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "freedom": {
+    "accords": { "fresh": 0.6, "citrus": 0.5, "aquatic": 0.4, "ozonic": 0.4 },
+    "notes": { "bergamot": 0.5, "grapefruit": 0.4, "ambergris": 0.3, "pine": 0.3 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "galbanum": {
+    "accords": { "green": 0.8, "chypre": 0.4, "aromatic": 0.3 },
+    "notes": { "galbanum": 0.95, "iris": 0.3, "oakmoss": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "gentle": {
+    "accords": { "musk": 0.6, "floral": 0.5, "powdery": 0.4, "fresh": 0.3 },
+    "notes": { "musk": 0.5, "iris": 0.4, "rose": 0.3, "sandalwood": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "ghost orchid": {
+    "accords": { "floral": 0.7, "musk": 0.4, "powdery": 0.4, "aldehyde": 0.3 },
+    "notes": { "tuberose": 0.5, "lily": 0.5, "musk": 0.4, "iris": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "ginger": {
+    "accords": { "spicy": 0.7, "fresh": 0.4, "aromatic": 0.3 },
+    "notes": { "ginger": 0.95, "lemon": 0.3, "cardamom": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "golden": {
+    "accords": { "amber": 0.7, "oriental": 0.5, "gourmand": 0.3, "floral": 0.3 },
+    "notes": { "amber": 0.6, "honey": 0.5, "saffron": 0.4, "vanilla": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "gourmand": {
+    "accords": { "gourmand": 0.95, "oriental": 0.4, "amber": 0.3 },
+    "notes": { "vanilla": 0.7, "tonka": 0.5, "chocolate": 0.4, "coffee": 0.3, "honey": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "grapefruit": {
+    "accords": { "citrus": 0.8, "fresh": 0.5 },
+    "notes": { "grapefruit": 0.95, "bergamot": 0.3, "lemon": 0.2 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "green": {
+    "accords": { "green": 0.95, "fresh": 0.5, "aromatic": 0.3 },
+    "notes": { "galbanum": 0.6, "basil": 0.4, "mint": 0.3, "fig": 0.3, "moss": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "green tea": {
+    "accords": { "green": 0.7, "fresh": 0.5, "aromatic": 0.4 },
+    "notes": { "tea (green/black)": 0.9, "bergamot": 0.3, "jasmine": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "grounded": {
+    "accords": { "earthy": 0.7, "woody": 0.6, "resinous": 0.3, "green": 0.3 },
+    "notes": { "vetiver": 0.7, "patchouli": 0.5, "cedar": 0.4, "oakmoss": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "guarded": {
+    "accords": { "woody": 0.6, "leather": 0.4, "amber": 0.4, "aromatic": 0.3 },
+    "notes": { "cedar": 0.5, "vetiver": 0.4, "leather": 0.3, "amber": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "hay": {
+    "accords": { "aromatic": 0.5, "green": 0.5, "fougere": 0.3, "gourmand": 0.2 },
+    "notes": { "tonka": 0.6, "lavender": 0.3, "chamomile": 0.3, "vanilla": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "heavy": {
+    "accords": { "oriental": 0.7, "resinous": 0.5, "balsamic": 0.5, "amber": 0.4 },
+    "notes": { "amber": 0.5, "benzoin": 0.5, "oud": 0.4, "patchouli": 0.4 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "heliotrope": {
+    "accords": { "floral": 0.6, "powdery": 0.5, "gourmand": 0.4 },
+    "notes": { "heliotrope": 0.95, "vanilla": 0.3, "tonka": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "herbal": {
+    "accords": { "aromatic": 0.8, "green": 0.5, "fresh": 0.4 },
+    "notes": { "basil": 0.5, "thyme": 0.5, "lavender": 0.4, "chamomile": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "hidden": {
+    "accords": { "musk": 0.5, "woody": 0.5, "incense": 0.3, "amber": 0.3 },
+    "notes": { "musk": 0.5, "sandalwood": 0.4, "amber": 0.3, "vetiver": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "honey": {
+    "accords": { "gourmand": 0.6, "balsamic": 0.5, "floral": 0.3, "amber": 0.3 },
+    "notes": { "honey": 0.95, "tonka": 0.3, "vanilla": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "honeyed": {
+    "accords": { "gourmand": 0.6, "balsamic": 0.5, "amber": 0.3, "floral": 0.3 },
+    "notes": { "honey": 0.8, "tonka": 0.4, "vanilla": 0.3, "benzoin": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "hopeful": {
+    "accords": { "fresh": 0.6, "citrus": 0.5, "floral": 0.4, "green": 0.3 },
+    "notes": { "neroli": 0.5, "bergamot": 0.4, "peony": 0.3, "grapefruit": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "incense": {
+    "accords": { "incense": 0.95, "resinous": 0.5, "smoky": 0.4, "balsamic": 0.3 },
+    "notes": { "frankincense": 0.7, "myrrh": 0.5, "labdanum": 0.3, "benzoin": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "intense": {
+    "accords": { "oud": 0.5, "spicy": 0.5, "oriental": 0.5, "leather": 0.4 },
+    "notes": { "oud": 0.5, "saffron": 0.4, "pepper": 0.4, "amber": 0.4 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 6, "max": 9 }
+  },
+  "intimate": {
+    "accords": { "musk": 0.7, "amber": 0.5, "powdery": 0.4, "floral": 0.3 },
+    "notes": { "musk": 0.7, "sandalwood": 0.4, "vanilla": 0.3, "iris": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "iris": {
+    "accords": { "floral": 0.6, "powdery": 0.6, "woody": 0.3, "aldehyde": 0.3 },
+    "notes": { "iris": 0.95, "violet": 0.3, "cedar": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "jasmine": {
+    "accords": { "floral": 0.9, "oriental": 0.3, "musk": 0.2 },
+    "notes": { "jasmine": 0.95, "ylang-ylang": 0.3, "orange blossom": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "joyful": {
+    "accords": { "citrus": 0.6, "fresh": 0.6, "fruity": 0.5, "floral": 0.4 },
+    "notes": { "bergamot": 0.5, "mandarin": 0.5, "peony": 0.4, "neroli": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "juniper": {
+    "accords": { "aromatic": 0.6, "green": 0.5, "fresh": 0.4, "woody": 0.3 },
+    "notes": { "pine": 0.6, "cypress": 0.4, "bergamot": 0.3, "lavender": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "labdanum": {
+    "accords": { "resinous": 0.8, "amber": 0.6, "balsamic": 0.4 },
+    "notes": { "labdanum": 0.95, "amber": 0.4, "benzoin": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "lavender": {
+    "accords": { "aromatic": 0.7, "fougere": 0.5, "fresh": 0.4 },
+    "notes": { "lavender": 0.95, "tonka": 0.2, "geranium": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "leather": {
+    "accords": { "leather": 0.95, "smoky": 0.3, "animalic": 0.3, "woody": 0.2 },
+    "notes": { "leather": 0.95, "birch": 0.4, "suede": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "lemon": {
+    "accords": { "citrus": 0.9, "fresh": 0.5 },
+    "notes": { "lemon": 0.95, "bergamot": 0.3, "grapefruit": 0.2 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 2, "max": 3 }
+  },
+  "lonely heat": {
+    "accords": { "amber": 0.6, "spicy": 0.5, "musk": 0.4, "incense": 0.3 },
+    "notes": { "saffron": 0.5, "amber": 0.5, "cinnamon": 0.3, "musk": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "longing": {
+    "accords": { "oriental": 0.5, "floral": 0.5, "amber": 0.4, "musk": 0.4 },
+    "notes": { "rose": 0.5, "amber": 0.4, "sandalwood": 0.4, "vanilla": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "luminous": {
+    "accords": { "fresh": 0.6, "floral": 0.5, "citrus": 0.4, "aldehyde": 0.4 },
+    "notes": { "neroli": 0.5, "bergamot": 0.5, "iris": 0.3, "lily": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "lush": {
+    "accords": { "floral": 0.7, "green": 0.5, "fruity": 0.4, "oriental": 0.3 },
+    "notes": { "tuberose": 0.5, "jasmine": 0.5, "peach": 0.3, "ylang-ylang": 0.3 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "magnetic": {
+    "accords": { "oriental": 0.6, "musk": 0.5, "amber": 0.5, "animalic": 0.3 },
+    "notes": { "amber": 0.5, "musk": 0.5, "vanilla": 0.3, "oud": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "magnolia": {
+    "accords": { "floral": 0.8, "fresh": 0.4, "citrus": 0.2 },
+    "notes": { "magnolia": 0.95, "lemon": 0.3, "rose": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "mandarin": {
+    "accords": { "citrus": 0.8, "fresh": 0.4, "fruity": 0.3 },
+    "notes": { "mandarin": 0.95, "orange": 0.3, "bergamot": 0.2 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "melancholic": {
+    "accords": { "amber": 0.5, "floral": 0.4, "incense": 0.4, "woody": 0.3 },
+    "notes": { "iris": 0.5, "violet": 0.4, "myrrh": 0.3, "sandalwood": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "metallic": {
+    "accords": { "metallic": 0.95, "ozonic": 0.4, "aromatic": 0.3 },
+    "notes": { "galbanum": 0.4, "iris": 0.3, "pepper": 0.3, "violet": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "mimosa": {
+    "accords": { "floral": 0.7, "powdery": 0.5, "green": 0.3 },
+    "notes": { "mimosa": 0.95, "heliotrope": 0.3, "violet": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "mineral": {
+    "accords": { "earthy": 0.6, "metallic": 0.5, "ozonic": 0.4, "aquatic": 0.3 },
+    "notes": { "vetiver": 0.4, "iris": 0.3, "ambergris": 0.3, "moss": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "minimal": {
+    "accords": { "musk": 0.6, "fresh": 0.5, "woody": 0.3 },
+    "notes": { "musk": 0.6, "cedar": 0.4, "iris": 0.3, "bergamot": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "moss": {
+    "accords": { "chypre": 0.6, "earthy": 0.6, "green": 0.5, "woody": 0.3 },
+    "notes": { "oakmoss": 0.8, "moss": 0.8, "patchouli": 0.3, "vetiver": 0.3 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "musk": {
+    "accords": { "musk": 0.95, "powdery": 0.3, "animalic": 0.2 },
+    "notes": { "musk": 0.95, "ambergris": 0.3, "sandalwood": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "myrrh": {
+    "accords": { "resinous": 0.7, "incense": 0.6, "balsamic": 0.5 },
+    "notes": { "myrrh": 0.95, "frankincense": 0.3, "labdanum": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "mysterious": {
+    "accords": { "oriental": 0.6, "incense": 0.5, "oud": 0.5, "smoky": 0.4 },
+    "notes": { "oud": 0.5, "frankincense": 0.4, "amber": 0.4, "saffron": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 5, "max": 8 }
+  },
+  "neroli": {
+    "accords": { "citrus": 0.5, "floral": 0.5, "fresh": 0.4 },
+    "notes": { "neroli": 0.95, "orange blossom": 0.4, "bergamot": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "nocturnal": {
+    "accords": { "oud": 0.5, "incense": 0.5, "oriental": 0.4, "smoky": 0.4 },
+    "notes": { "oud": 0.4, "frankincense": 0.4, "myrrh": 0.3, "patchouli": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "nostalgic": {
+    "accords": { "powdery": 0.5, "floral": 0.5, "amber": 0.4, "gourmand": 0.3 },
+    "notes": { "iris": 0.5, "vanilla": 0.4, "rose": 0.4, "heliotrope": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "oakmoss": {
+    "accords": { "chypre": 0.7, "earthy": 0.5, "green": 0.4, "woody": 0.3 },
+    "notes": { "oakmoss": 0.95, "patchouli": 0.3, "vetiver": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "orange blossom": {
+    "accords": { "floral": 0.7, "citrus": 0.4, "fresh": 0.3 },
+    "notes": { "orange blossom": 0.95, "neroli": 0.4, "jasmine": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "orris": {
+    "accords": { "floral": 0.6, "powdery": 0.6, "woody": 0.3 },
+    "notes": { "iris": 0.9, "violet": 0.3, "musk": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "oud": {
+    "accords": { "oud": 0.95, "woody": 0.5, "animalic": 0.3, "smoky": 0.3 },
+    "notes": { "oud": 0.95, "sandalwood": 0.3, "amber": 0.2 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 6, "max": 9 }
+  },
+  "overwhelmed": {
+    "accords": { "oriental": 0.6, "floral": 0.5, "resinous": 0.4, "gourmand": 0.3 },
+    "notes": { "tuberose": 0.5, "benzoin": 0.4, "jasmine": 0.3, "amber": 0.3 },
+    "energy": { "min": 6, "max": 9 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "ozonic": {
+    "accords": { "ozonic": 0.95, "fresh": 0.5, "aquatic": 0.4, "metallic": 0.3 },
+    "notes": { "ambergris": 0.3, "bergamot": 0.3, "iris": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 2, "max": 3 }
+  },
+  "patchouli": {
+    "accords": { "earthy": 0.6, "woody": 0.6, "chypre": 0.4, "oriental": 0.3 },
+    "notes": { "patchouli": 0.95, "vetiver": 0.3, "oakmoss": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "peach": {
+    "accords": { "fruity": 0.8, "floral": 0.3, "gourmand": 0.3 },
+    "notes": { "peach": 0.95, "apricot": 0.3, "jasmine": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "peony": {
+    "accords": { "floral": 0.8, "fresh": 0.4, "powdery": 0.2 },
+    "notes": { "peony": 0.95, "rose": 0.3, "lily": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "pepper": {
+    "accords": { "spicy": 0.8, "aromatic": 0.3, "woody": 0.2 },
+    "notes": { "pepper": 0.95, "ginger": 0.2, "cardamom": 0.2 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "petrichor": {
+    "accords": { "earthy": 0.7, "ozonic": 0.5, "green": 0.4, "mineral": 0.3 },
+    "notes": { "vetiver": 0.5, "moss": 0.4, "galbanum": 0.3, "iris": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "pine": {
+    "accords": { "aromatic": 0.6, "woody": 0.5, "green": 0.5, "fresh": 0.4 },
+    "notes": { "pine": 0.95, "cypress": 0.3, "eucalyptus": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "polished": {
+    "accords": { "woody": 0.5, "leather": 0.4, "aromatic": 0.4, "amber": 0.3 },
+    "notes": { "sandalwood": 0.5, "cedar": 0.4, "leather": 0.3, "vetiver": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "powdery": {
+    "accords": { "powdery": 0.95, "floral": 0.4, "musk": 0.3, "aldehyde": 0.3 },
+    "notes": { "iris": 0.6, "heliotrope": 0.5, "violet": 0.4, "musk": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "protective": {
+    "accords": { "woody": 0.6, "amber": 0.5, "resinous": 0.4, "leather": 0.3 },
+    "notes": { "cedar": 0.5, "amber": 0.4, "frankincense": 0.3, "vetiver": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "quiet": {
+    "accords": { "musk": 0.6, "powdery": 0.4, "woody": 0.3, "fresh": 0.3 },
+    "notes": { "musk": 0.5, "iris": 0.4, "sandalwood": 0.3, "cedar": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "rain": {
+    "accords": { "aquatic": 0.6, "ozonic": 0.6, "fresh": 0.5, "green": 0.3 },
+    "notes": { "moss": 0.4, "vetiver": 0.3, "bergamot": 0.3, "galbanum": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "raw": {
+    "accords": { "leather": 0.5, "animalic": 0.5, "earthy": 0.4, "smoky": 0.3 },
+    "notes": { "leather": 0.5, "cumin": 0.4, "vetiver": 0.4, "birch": 0.3 },
+    "energy": { "min": 6, "max": 9 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "rebellious": {
+    "accords": { "leather": 0.6, "smoky": 0.5, "spicy": 0.5, "oud": 0.3 },
+    "notes": { "leather": 0.5, "pepper": 0.5, "birch": 0.4, "tobacco": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "reflective": {
+    "accords": { "incense": 0.5, "woody": 0.5, "amber": 0.4, "musk": 0.3 },
+    "notes": { "frankincense": 0.5, "sandalwood": 0.4, "iris": 0.3, "cedar": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "resinous": {
+    "accords": { "resinous": 0.95, "balsamic": 0.5, "incense": 0.4, "amber": 0.3 },
+    "notes": { "labdanum": 0.6, "frankincense": 0.5, "benzoin": 0.5, "myrrh": 0.4 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "restless": {
+    "accords": { "spicy": 0.5, "fresh": 0.4, "aromatic": 0.4, "citrus": 0.3 },
+    "notes": { "ginger": 0.4, "pepper": 0.4, "bergamot": 0.3, "vetiver": 0.3 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "rose": {
+    "accords": { "floral": 0.9, "powdery": 0.3, "chypre": 0.2 },
+    "notes": { "rose": 0.95, "geranium": 0.3, "patchouli": 0.2 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "rose absolute": {
+    "accords": { "floral": 0.9, "oriental": 0.3, "spicy": 0.2 },
+    "notes": { "rose": 0.95, "geranium": 0.2, "clove": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "saffron": {
+    "accords": { "spicy": 0.7, "oriental": 0.5, "leather": 0.3 },
+    "notes": { "saffron": 0.95, "pepper": 0.2, "leather": 0.2 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "salt": {
+    "accords": { "marine": 0.7, "aquatic": 0.5, "mineral": 0.4 },
+    "notes": { "ambergris": 0.4, "musk": 0.3, "vetiver": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "sandalwood": {
+    "accords": { "woody": 0.8, "oriental": 0.4, "musk": 0.3 },
+    "notes": { "sandalwood": 0.95, "cedar": 0.2, "musk": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "sensual": {
+    "accords": { "oriental": 0.6, "musk": 0.6, "amber": 0.5, "animalic": 0.3 },
+    "notes": { "musk": 0.6, "vanilla": 0.4, "sandalwood": 0.4, "amber": 0.4 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "sharp": {
+    "accords": { "citrus": 0.5, "green": 0.5, "aromatic": 0.4, "metallic": 0.3 },
+    "notes": { "grapefruit": 0.4, "galbanum": 0.4, "bergamot": 0.3, "pepper": 0.3 },
+    "energy": { "min": 7, "max": 9 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "silent": {
+    "accords": { "musk": 0.6, "powdery": 0.4, "woody": 0.3 },
+    "notes": { "musk": 0.6, "iris": 0.4, "cedar": 0.3, "sandalwood": 0.2 },
+    "energy": { "min": 1, "max": 2 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "skin": {
+    "accords": { "musk": 0.8, "powdery": 0.4, "amber": 0.3, "fresh": 0.2 },
+    "notes": { "musk": 0.8, "sandalwood": 0.4, "iris": 0.3, "ambergris": 0.2 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "smoke": {
+    "accords": { "smoky": 0.9, "incense": 0.4, "woody": 0.3 },
+    "notes": { "birch": 0.5, "frankincense": 0.4, "oud": 0.3, "tobacco": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "smoky": {
+    "accords": { "smoky": 0.95, "incense": 0.4, "woody": 0.3, "leather": 0.2 },
+    "notes": { "birch": 0.5, "frankincense": 0.4, "oud": 0.3, "tobacco": 0.3 },
+    "energy": { "min": 4, "max": 7 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "smoldering": {
+    "accords": { "smoky": 0.7, "incense": 0.5, "amber": 0.5, "spicy": 0.3 },
+    "notes": { "oud": 0.5, "frankincense": 0.4, "amber": 0.4, "cinnamon": 0.3 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "soft": {
+    "accords": { "musk": 0.6, "powdery": 0.5, "floral": 0.4, "amber": 0.3 },
+    "notes": { "musk": 0.5, "iris": 0.4, "sandalwood": 0.4, "vanilla": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "soil": {
+    "accords": { "earthy": 0.9, "green": 0.3, "woody": 0.3 },
+    "notes": { "vetiver": 0.6, "patchouli": 0.5, "oakmoss": 0.4, "moss": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "sparkling": {
+    "accords": { "citrus": 0.7, "fresh": 0.6, "aldehyde": 0.4, "fruity": 0.3 },
+    "notes": { "bergamot": 0.5, "grapefruit": 0.5, "lemon": 0.4, "mandarin": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "spicy": {
+    "accords": { "spicy": 0.95, "oriental": 0.4, "aromatic": 0.3 },
+    "notes": { "pepper": 0.5, "cinnamon": 0.5, "cardamom": 0.4, "clove": 0.4, "ginger": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "still": {
+    "accords": { "musk": 0.5, "woody": 0.4, "incense": 0.3, "powdery": 0.3 },
+    "notes": { "sandalwood": 0.5, "musk": 0.4, "iris": 0.3, "cedar": 0.3 },
+    "energy": { "min": 1, "max": 2 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "stone": {
+    "accords": { "mineral": 0.6, "earthy": 0.5, "metallic": 0.4, "woody": 0.3 },
+    "notes": { "vetiver": 0.4, "iris": 0.3, "cedar": 0.3, "moss": 0.2 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 2, "max": 4 }
+  },
+  "structured": {
+    "accords": { "woody": 0.6, "chypre": 0.5, "aromatic": 0.4, "leather": 0.3 },
+    "notes": { "cedar": 0.5, "oakmoss": 0.4, "vetiver": 0.4, "bergamot": 0.3 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "suede": {
+    "accords": { "leather": 0.7, "musk": 0.4, "powdery": 0.3, "woody": 0.3 },
+    "notes": { "suede": 0.95, "leather": 0.4, "iris": 0.3, "musk": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "tea": {
+    "accords": { "aromatic": 0.6, "green": 0.5, "fresh": 0.4 },
+    "notes": { "tea (green/black)": 0.9, "bergamot": 0.3, "jasmine": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "tender": {
+    "accords": { "musk": 0.6, "floral": 0.5, "powdery": 0.4, "fresh": 0.2 },
+    "notes": { "musk": 0.5, "rose": 0.4, "iris": 0.3, "peony": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "timeless": {
+    "accords": { "chypre": 0.5, "floral": 0.5, "woody": 0.4, "aldehyde": 0.3 },
+    "notes": { "oakmoss": 0.4, "rose": 0.4, "sandalwood": 0.4, "bergamot": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "tobacco": {
+    "accords": { "smoky": 0.5, "aromatic": 0.5, "gourmand": 0.3, "woody": 0.3 },
+    "notes": { "tobacco": 0.95, "vanilla": 0.3, "honey": 0.2, "tonka": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 6, "max": 8 }
+  },
+  "transcendent": {
+    "accords": { "incense": 0.7, "oriental": 0.5, "floral": 0.3, "amber": 0.3 },
+    "notes": { "frankincense": 0.6, "saffron": 0.4, "iris": 0.3, "sandalwood": 0.3 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "tropical": {
+    "accords": { "fruity": 0.7, "floral": 0.5, "fresh": 0.4, "green": 0.3 },
+    "notes": { "ylang-ylang": 0.5, "jasmine": 0.4, "peach": 0.3, "mandarin": 0.3 },
+    "energy": { "min": 6, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "tuberose": {
+    "accords": { "floral": 0.9, "oriental": 0.3, "musk": 0.2 },
+    "notes": { "tuberose": 0.95, "jasmine": 0.3, "ylang-ylang": 0.2 },
+    "energy": { "min": 5, "max": 8 },
+    "warmth": { "min": 5, "max": 7 }
+  },
+  "vanilla": {
+    "accords": { "gourmand": 0.7, "oriental": 0.4, "balsamic": 0.3 },
+    "notes": { "vanilla": 0.95, "tonka": 0.3, "benzoin": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "vetiver": {
+    "accords": { "woody": 0.7, "earthy": 0.6, "green": 0.3 },
+    "notes": { "vetiver": 0.95, "cedar": 0.2, "patchouli": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "violet": {
+    "accords": { "floral": 0.6, "powdery": 0.5, "green": 0.3 },
+    "notes": { "violet": 0.95, "iris": 0.4, "mimosa": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "violet leaf": {
+    "accords": { "green": 0.7, "floral": 0.4, "earthy": 0.3 },
+    "notes": { "violet": 0.7, "galbanum": 0.4, "iris": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "volcanic": {
+    "accords": { "smoky": 0.7, "spicy": 0.6, "incense": 0.4, "metallic": 0.4 },
+    "notes": { "pepper": 0.5, "birch": 0.4, "oud": 0.4, "frankincense": 0.3 },
+    "energy": { "min": 8, "max": 10 },
+    "warmth": { "min": 8, "max": 10 }
+  },
+  "vulnerable": {
+    "accords": { "musk": 0.6, "powdery": 0.5, "floral": 0.4, "amber": 0.2 },
+    "notes": { "musk": 0.5, "iris": 0.5, "violet": 0.3, "sandalwood": 0.3 },
+    "energy": { "min": 1, "max": 3 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "warm": {
+    "accords": { "amber": 0.7, "oriental": 0.5, "musk": 0.4, "balsamic": 0.3 },
+    "notes": { "amber": 0.6, "sandalwood": 0.4, "vanilla": 0.4, "tonka": 0.3 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "warm leather": {
+    "accords": { "leather": 0.7, "amber": 0.5, "woody": 0.3, "smoky": 0.2 },
+    "notes": { "leather": 0.8, "amber": 0.4, "sandalwood": 0.3, "vanilla": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "warm skin": {
+    "accords": { "musk": 0.7, "amber": 0.5, "powdery": 0.3, "oriental": 0.2 },
+    "notes": { "musk": 0.7, "sandalwood": 0.5, "amber": 0.3, "vanilla": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 7, "max": 9 }
+  },
+  "warm vanilla": {
+    "accords": { "gourmand": 0.7, "amber": 0.5, "oriental": 0.3 },
+    "notes": { "vanilla": 0.9, "tonka": 0.4, "benzoin": 0.3, "amber": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 8, "max": 10 }
+  },
+  "white flowers": {
+    "accords": { "floral": 0.9, "musk": 0.3, "green": 0.2 },
+    "notes": { "jasmine": 0.6, "tuberose": 0.5, "orange blossom": 0.5, "lily": 0.4 },
+    "energy": { "min": 5, "max": 7 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "white musk": {
+    "accords": { "musk": 0.9, "fresh": 0.4, "powdery": 0.3 },
+    "notes": { "musk": 0.9, "iris": 0.3, "cedar": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "white tea": {
+    "accords": { "green": 0.6, "fresh": 0.5, "aromatic": 0.4, "floral": 0.2 },
+    "notes": { "tea (green/black)": 0.8, "jasmine": 0.3, "bergamot": 0.2 },
+    "energy": { "min": 3, "max": 5 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "wild": {
+    "accords": { "animalic": 0.5, "green": 0.5, "aromatic": 0.4, "earthy": 0.3 },
+    "notes": { "galbanum": 0.4, "vetiver": 0.4, "musk": 0.3, "pine": 0.3 },
+    "energy": { "min": 7, "max": 10 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "withdrawn": {
+    "accords": { "musk": 0.5, "woody": 0.4, "incense": 0.3, "powdery": 0.3 },
+    "notes": { "iris": 0.5, "musk": 0.4, "cedar": 0.3, "sandalwood": 0.3 },
+    "energy": { "min": 1, "max": 2 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "woody": {
+    "accords": { "woody": 0.95, "earthy": 0.3, "aromatic": 0.2 },
+    "notes": { "cedar": 0.6, "sandalwood": 0.5, "vetiver": 0.4, "guaiac": 0.3, "pine": 0.3 },
+    "energy": { "min": 3, "max": 6 },
+    "warmth": { "min": 4, "max": 6 }
+  },
+  "wormwood": {
+    "accords": { "aromatic": 0.6, "green": 0.5, "earthy": 0.4 },
+    "notes": { "wormwood": 0.95, "galbanum": 0.3, "basil": 0.2 },
+    "energy": { "min": 4, "max": 6 },
+    "warmth": { "min": 3, "max": 5 }
+  },
+  "wounded": {
+    "accords": { "resinous": 0.5, "balsamic": 0.5, "incense": 0.4, "musk": 0.3 },
+    "notes": { "myrrh": 0.5, "benzoin": 0.4, "labdanum": 0.3, "iris": 0.3 },
+    "energy": { "min": 2, "max": 4 },
+    "warmth": { "min": 4, "max": 6 }
+  }
+}
