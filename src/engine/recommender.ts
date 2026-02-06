@@ -198,7 +198,7 @@ function collectAspectMoodTags(
 
 // ─── Generate match reason ────────────────────────
 function generateMatchReason(
-  perfume: Perfume,
+  _perfume: Perfume,
   aspect: Aspect,
   matchedAccords: string[],
   matchedNotes: string[]
